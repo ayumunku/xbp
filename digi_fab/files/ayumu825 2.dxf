@@ -1,0 +1,24380 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1027
+  9
+$ACADMAINTVER
+ 70
+   125
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$REQUIREDVERSIONS
+160
+                 0
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+1.000000000000000E+20
+ 20
+1.000000000000000E+20
+ 30
+1.000000000000000E+20
+  9
+$EXTMAX
+ 10
+-1.000000000000000E+20
+ 20
+-1.000000000000000E+20
+ 30
+-1.000000000000000E+20
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     0
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+0.2
+  9
+$TRACEWID
+ 40
+0.05
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+0.18
+  9
+$DIMEXO
+ 40
+0.0625
+  9
+$DIMDLI
+ 40
+0.38
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+0.18
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+0.18
+  9
+$DIMCEN
+ 40
+0.09
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     1
+  9
+$DIMTOH
+ 70
+     1
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     0
+  9
+$DIMZIN
+ 70
+     0
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     2
+  9
+$DIMALTF
+ 40
+25.4
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     0
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+Standard
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.09
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     1
+  9
+$DIMTZIN
+ 70
+     0
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     4
+  9
+$DIMTDEC
+ 70
+     4
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     2
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    46
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$DIMFXL
+ 40
+1.0
+  9
+$DIMFXLON
+ 70
+     0
+  9
+$DIMJOGANG
+ 40
+0.7853981633974483
+  9
+$DIMTFILL
+ 70
+     0
+  9
+$DIMTFILLCLR
+ 70
+     0
+  9
+$DIMARCSYM
+ 70
+     0
+  9
+$DIMLTYPE
+  6
+
+  9
+$DIMLTEX1
+  6
+
+  9
+$DIMLTEX2
+  6
+
+  9
+$DIMTXTDIRECTION
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+0.1
+  9
+$FILLETRAD
+ 40
+0.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+0.0
+  9
+$CHAMFERB
+ 40
+0.0
+  9
+$CHAMFERC
+ 40
+0.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2460614.152569445
+  9
+$TDUCREATE
+ 40
+2460614.152569445
+  9
+$TDUPDATE
+ 40
+2460614.152569445
+  9
+$TDUUPDATE
+ 40
+2460614.152569445
+  9
+$TDINDWG
+ 40
+0.0000000000
+  9
+$TDUSRTIMER
+ 40
+0.0000000000
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+21F
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+1.000000000000000E+20
+ 20
+1.000000000000000E+20
+ 30
+1.000000000000000E+20
+  9
+$PEXTMAX
+ 10
+-1.000000000000000E+20
+ 20
+-1.000000000000000E+20
+ 30
+-1.000000000000000E+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+1.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     0
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{4B354A3B-CD8D-B645-A6AD-5AB3A42F85B0}
+  9
+$VERSIONGUID
+  2
+{54A0B083-78C4-2D43-BD38-B68A0A150632}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  9
+$SORTENTS
+280
+   127
+  9
+$INDEXCTL
+280
+     0
+  9
+$HIDETEXT
+280
+     1
+  9
+$XCLIPFRAME
+280
+     2
+  9
+$HALOGAP
+280
+     0
+  9
+$OBSCOLOR
+ 70
+   257
+  9
+$OBSLTYPE
+280
+     0
+  9
+$INTERSECTIONDISPLAY
+280
+     0
+  9
+$INTERSECTIONCOLOR
+ 70
+   257
+  9
+$DIMASSOC
+280
+     2
+  9
+$PROJECTNAME
+  1
+
+  9
+$CAMERADISPLAY
+290
+     0
+  9
+$LENSLENGTH
+ 40
+50.0
+  9
+$CAMERAHEIGHT
+ 40
+0.0
+  9
+$STEPSPERSEC
+ 40
+2.0
+  9
+$STEPSIZE
+ 40
+6.0
+  9
+$3DDWFPREC
+ 40
+2.0
+  9
+$PSOLWIDTH
+ 40
+0.25
+  9
+$PSOLHEIGHT
+ 40
+4.0
+  9
+$LOFTANG1
+ 40
+1.570796326794896
+  9
+$LOFTANG2
+ 40
+1.570796326794896
+  9
+$LOFTMAG1
+ 40
+0.0
+  9
+$LOFTMAG2
+ 40
+0.0
+  9
+$LOFTPARAM
+ 70
+     7
+  9
+$LOFTNORMALS
+280
+     1
+  9
+$LATITUDE
+ 40
+37.795
+  9
+$LONGITUDE
+ 40
+-122.394
+  9
+$NORTHDIRECTION
+ 40
+0.0
+  9
+$TIMEZONE
+ 70
+ -8000
+  9
+$LIGHTGLYPHDISPLAY
+280
+     1
+  9
+$TILEMODELIGHTSYNCH
+280
+     1
+  9
+$CMATERIAL
+347
+11
+  9
+$SOLIDHIST
+280
+     0
+  9
+$SHOWHIST
+280
+     1
+  9
+$DWFFRAME
+280
+     2
+  9
+$DGNFRAME
+280
+     0
+  9
+$REALWORLDSCALE
+290
+     1
+  9
+$INTERFERECOLOR
+ 62
+     1
+  9
+$INTERFEREOBJVS
+345
+33
+  9
+$INTERFEREVPVS
+346
+30
+  9
+$CSHADOW
+280
+     0
+  9
+$SHADOWPLANELOCATION
+ 40
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+MATERIAL
+  2
+AcDbMaterial
+  3
+ObjectDBX Classes
+ 90
+     1153
+ 91
+        3
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+VISUALSTYLE
+  2
+AcDbVisualStyle
+  3
+ObjectDBX Classes
+ 90
+     4095
+ 91
+       24
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+SCALE
+  2
+AcDbScale
+  3
+ObjectDBX Classes
+ 90
+     1153
+ 91
+       17
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+TABLESTYLE
+  2
+AcDbTableStyle
+  3
+ObjectDBX Classes
+ 90
+     4095
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+MLEADERSTYLE
+  2
+AcDbMLeaderStyle
+  3
+ACDB_MLEADERSTYLE_CLASS
+ 90
+     4095
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBSECTIONVIEWSTYLE
+  2
+AcDbSectionViewStyle
+  3
+ObjectDBX Classes
+ 90
+     1025
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBDETAILVIEWSTYLE
+  2
+AcDbDetailViewStyle
+  3
+ObjectDBX Classes
+ 90
+     1025
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        5
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+CELLSTYLEMAP
+  2
+AcDbCellStyleMap
+  3
+ObjectDBX Classes
+ 90
+     1152
+ 91
+        1
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+1001
+ACAD
+1000
+DbSaveVer
+1071
+      371
+  0
+VPORT
+  5
+57
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+500.0
+ 22
+500.0
+ 13
+0.0
+ 23
+0.0
+ 14
+1.0
+ 24
+1.0
+ 15
+0.0
+ 25
+0.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+12.0
+ 41
+1.0
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     1
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+ 60
+     3
+ 61
+     5
+292
+     1
+282
+     1
+141
+0.0
+142
+0.0
+ 63
+   250
+421
+  3355443
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LTYPE
+  5
+5B
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+5C
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+5D
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+    28
+  0
+LAYER
+  5
+54
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+  0
+LAYER
+  5
+7A
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch1
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+7C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch2
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+91
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch3
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+97
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch4
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+9C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch5
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+AC
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch9
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+B6
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch10
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+C0
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch11
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+C2
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch12
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+DC
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch13
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+DE
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch14
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+F8
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch15
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+108
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch16
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+10C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch17
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+10F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch18
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+111
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch19
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+192
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch20
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+19C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch21
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+19E
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch22
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+1A0
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch23
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.085317;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+1A2
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch24
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+1A4
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch25
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+1A6
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch26
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+1A8
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch27
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+1AA
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch28
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+1AC
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch29
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;-1.000000;0.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+LAYER
+  5
+1AE
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+レーザーカット v8_Sketch30
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+21
+348
+0
+1001
+NFusion_SketchTransform
+1000
+1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000;0.000000;0.000000;0.000000;0.000000;1.000000
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+STYLE
+  5
+55
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+0.2
+  3
+txt
+  4
+
+  0
+STYLE
+  5
+5A
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Annotative
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+0.2
+  3
+txt
+  4
+
+1001
+AcadAnnotative
+1000
+AnnotativeData
+1002
+{
+1070
+     1
+1070
+     1
+1002
+}
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+     4
+  0
+APPID
+  5
+56
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+APPID
+  5
+5E
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+AcadAnnotative
+ 70
+     0
+  0
+APPID
+  5
+78
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+EDIT_IN_FUSION_ACAD_ADDIN
+ 70
+     0
+  0
+APPID
+  5
+79
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+NFusion_SketchTransform
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     2
+100
+AcDbDimStyleTable
+ 71
+     0
+  0
+DIMSTYLE
+105
+58
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+     0
+340
+55
+  0
+DIMSTYLE
+105
+59
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Annotative
+ 70
+     0
+340
+55
+1001
+AcadAnnotative
+1000
+AnnotativeData
+1002
+{
+1070
+     1
+1070
+     1
+1002
+}
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+BLOCK_RECORD
+  5
+70
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+73
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+6C
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+6F
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+74
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+340
+77
+ 70
+     0
+280
+     1
+281
+     0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+71
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+72
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+6D
+330
+6C
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+6E
+330
+6C
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+75
+330
+74
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+76
+330
+74
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POINT
+  5
+7B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch1
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+7D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+7E
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbPoint
+ 10
+-125.0000018626451
+ 20
+-105.0000015646219
+ 30
+0.0
+  0
+POINT
+  5
+7F
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbPoint
+ 10
+-145.0
+ 20
+-28.00000156462193
+ 30
+0.0
+  0
+POINT
+  5
+80
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbPoint
+ 10
+125.0
+ 20
+-95.0
+ 30
+0.0
+  0
+POINT
+  5
+81
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbPoint
+ 10
+103.0
+ 20
+-95.0
+ 30
+0.0
+  0
+POINT
+  5
+82
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbPoint
+ 10
+-15.00000186264515
+ 20
+-105.0000015646219
+ 30
+0.0
+  0
+POINT
+  5
+83
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbPoint
+ 10
+5.000000000000026
+ 20
+-28.00000156462193
+ 30
+0.0
+  0
+LINE
+  5
+84
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbLine
+ 10
+-125.0000018626451
+ 20
+-68.00000156462193
+ 30
+0.0
+ 11
+-145.0
+ 21
+-68.00000156462193
+ 31
+0.0
+  0
+LINE
+  5
+85
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbLine
+ 10
+-145.0
+ 20
+-68.00000156462193
+ 30
+0.0
+ 11
+-145.0
+ 21
+-33.00000156462193
+ 31
+0.0
+  0
+LINE
+  5
+86
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbLine
+ 10
+-15.00000186264515
+ 20
+-97.50000156462192
+ 30
+0.0
+ 11
+-15.00000186264515
+ 21
+-68.00000156462193
+ 31
+0.0
+  0
+LINE
+  5
+87
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbLine
+ 10
+-125.0000018626451
+ 20
+-97.50000156462192
+ 30
+0.0
+ 11
+-125.0000018626451
+ 21
+-68.00000156462193
+ 31
+0.0
+  0
+LINE
+  5
+88
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbLine
+ 10
+-15.00000186264515
+ 20
+-68.00000156462193
+ 30
+0.0
+ 11
+5.000000000000021
+ 21
+-68.00000156462193
+ 31
+0.0
+  0
+LINE
+  5
+89
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbLine
+ 10
+-117.5000018626451
+ 20
+-105.0000015646219
+ 30
+0.0
+ 11
+-22.50000186264515
+ 21
+-105.0000015646219
+ 31
+0.0
+  0
+LINE
+  5
+8A
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbLine
+ 10
+-139.9999999999999
+ 20
+-28.00000156462193
+ 30
+0.0
+ 11
+0.0000000000000284
+ 21
+-28.00000156462193
+ 31
+0.0
+  0
+LINE
+  5
+8B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbLine
+ 10
+5.000000000000021
+ 20
+-68.00000156462193
+ 30
+0.0
+ 11
+5.000000000000023
+ 21
+-33.00000156462193
+ 31
+0.0
+  0
+ARC
+  5
+8C
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbCircle
+ 10
+-117.5000018626451
+ 20
+-97.50000156462194
+ 30
+0.0
+ 40
+7.499999999999982
+100
+AcDbArc
+ 50
+179.9999999999999
+ 51
+270.0000000000001
+  0
+LINE
+  5
+8D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbLine
+ 10
+-145.0000021606683
+ 20
+16.99999970197677
+ 30
+0.0
+ 11
+4.999997839331626
+ 21
+16.99999970197677
+ 31
+0.0
+  0
+ARC
+  5
+8E
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbCircle
+ 10
+-22.50000186264514
+ 20
+-97.50000156462194
+ 30
+0.0
+ 40
+7.499999999999982
+100
+AcDbArc
+ 50
+269.9999999999999
+ 51
+0.0000000000001086
+  0
+ARC
+  5
+8F
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbCircle
+ 10
+-139.9999999999999
+ 20
+-33.00000156462193
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+90.0
+ 51
+180.0
+  0
+ARC
+  5
+90
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch2
+100
+AcDbCircle
+ 10
+0.0000000000000233
+ 20
+-33.00000156462193
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+0.0
+ 51
+90.0
+  0
+POINT
+  5
+92
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch3
+100
+AcDbPoint
+ 10
+61.01321236913847
+ 20
+-49.99999999999999
+ 30
+0.0
+  0
+POINT
+  5
+93
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch3
+100
+AcDbPoint
+ 10
+138.0132123691385
+ 20
+-15.0
+ 30
+0.0
+  0
+POINT
+  5
+94
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch3
+100
+AcDbPoint
+ 10
+39.01321236913847
+ 20
+-50.0
+ 30
+0.0
+  0
+POINT
+  5
+95
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch3
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+96
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch3
+100
+AcDbPoint
+ 10
+19.01321236913846
+ 20
+-15.0
+ 30
+0.0
+  0
+POINT
+  5
+98
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch4
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+99
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch4
+100
+AcDbPoint
+ 10
+45.0
+ 20
+-95.0
+ 30
+0.0
+  0
+POINT
+  5
+9A
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch4
+100
+AcDbPoint
+ 10
+25.0
+ 20
+-60.0
+ 30
+0.0
+  0
+POINT
+  5
+9B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch4
+100
+AcDbPoint
+ 10
+102.0
+ 20
+-95.0
+ 30
+0.0
+  0
+POINT
+  5
+9D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbPoint
+ 10
+5.0
+ 20
+-20.0
+ 30
+0.0
+  0
+POINT
+  5
+9E
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+9F
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbPoint
+ 10
+-145.0
+ 20
+-20.0
+ 30
+0.0
+  0
+LINE
+  5
+A0
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbLine
+ 10
+261.5745999619197
+ 20
+-12.07326451255631
+ 30
+0.0
+ 11
+261.5745999619197
+ 21
+-3.386363805064398
+ 31
+0.0
+  0
+ARC
+  5
+A1
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbCircle
+ 10
+-139.9999999999999
+ 20
+-14.99999999999999
+ 30
+0.0
+ 40
+5.000000000000017
+100
+AcDbArc
+ 50
+180.0000000000001
+ 51
+269.9999999999997
+  0
+LINE
+  5
+A2
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbLine
+ 10
+261.5745999619197
+ 20
+-3.386363805064398
+ 30
+0.0
+ 11
+258.9685297496721
+ 21
+-3.386363805064398
+ 31
+0.0
+  0
+ARC
+  5
+A3
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbCircle
+ 10
+0.0000000000000011
+ 20
+-15.0
+ 30
+0.0
+ 40
+4.999999999999998
+100
+AcDbArc
+ 50
+270.0
+ 51
+0.0000000000000407
+  0
+LINE
+  5
+A4
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbLine
+ 10
+-145.0
+ 20
+75.0
+ 30
+0.0
+ 11
+4.996134834872208
+ 21
+75.0
+ 31
+0.0
+  0
+LINE
+  5
+A5
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbLine
+ 10
+-145.0
+ 20
+20.0
+ 30
+0.0
+ 11
+-145.0
+ 21
+-15.0
+ 31
+0.0
+  0
+LINE
+  5
+A6
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbLine
+ 10
+-140.0
+ 20
+-20.0
+ 30
+0.0
+ 11
+0.0
+ 21
+-20.0
+ 31
+0.0
+  0
+LINE
+  5
+A7
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbLine
+ 10
+5.0
+ 20
+20.0
+ 30
+0.0
+ 11
+5.0
+ 21
+-15.0
+ 31
+0.0
+  0
+LINE
+  5
+A8
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbLine
+ 10
+-145.0
+ 20
+75.0
+ 30
+0.0
+ 11
+-145.0
+ 21
+20.0
+ 31
+0.0
+  0
+LINE
+  5
+A9
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbLine
+ 10
+258.9685297496721
+ 20
+-12.07326451255631
+ 30
+0.0
+ 11
+261.5745999619197
+ 21
+-12.07326451255631
+ 31
+0.0
+  0
+LINE
+  5
+AA
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbLine
+ 10
+5.0
+ 20
+20.0
+ 30
+0.0
+ 11
+4.996134834872201
+ 21
+75.0
+ 31
+0.0
+  0
+LINE
+  5
+AB
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch5
+100
+AcDbLine
+ 10
+258.9685297496721
+ 20
+-3.386363805064398
+ 30
+0.0
+ 11
+258.9685297496721
+ 21
+-12.07326451255631
+ 31
+0.0
+  0
+POINT
+  5
+AD
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch9
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+LINE
+  5
+AE
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch9
+100
+AcDbLine
+ 10
+65.0
+ 20
+70.0
+ 30
+0.0
+ 11
+25.0
+ 21
+70.0
+ 31
+0.0
+  0
+LINE
+  5
+AF
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch9
+100
+AcDbLine
+ 10
+19.99999999999999
+ 20
+65.0
+ 30
+0.0
+ 11
+20.0
+ 21
+25.0
+ 31
+0.0
+  0
+LINE
+  5
+B0
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch9
+100
+AcDbLine
+ 10
+25.0
+ 20
+20.0
+ 30
+0.0
+ 11
+65.0
+ 21
+20.0
+ 31
+0.0
+  0
+LINE
+  5
+B1
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch9
+100
+AcDbLine
+ 10
+69.99999999999999
+ 20
+25.0
+ 30
+0.0
+ 11
+70.0
+ 21
+65.0
+ 31
+0.0
+  0
+ARC
+  5
+B2
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch9
+100
+AcDbCircle
+ 10
+65.0
+ 20
+65.0
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+0.0
+ 51
+90.0
+  0
+ARC
+  5
+B3
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch9
+100
+AcDbCircle
+ 10
+25.0
+ 20
+25.0
+ 30
+0.0
+ 40
+4.999999999999991
+100
+AcDbArc
+ 50
+179.9999999999999
+ 51
+270.0000000000001
+  0
+ARC
+  5
+B4
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch9
+100
+AcDbCircle
+ 10
+25.0
+ 20
+65.0
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+89.99999999999992
+ 51
+180.0
+  0
+ARC
+  5
+B5
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch9
+100
+AcDbCircle
+ 10
+65.0
+ 20
+25.0
+ 30
+0.0
+ 40
+4.999999999999991
+100
+AcDbArc
+ 50
+270.0
+ 51
+0.0000000000000814
+  0
+POINT
+  5
+B7
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch10
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+LINE
+  5
+B8
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch10
+100
+AcDbLine
+ 10
+120.0
+ 20
+-0.0000000000000011
+ 30
+0.0
+ 11
+120.0
+ 21
+95.0
+ 31
+0.0
+  0
+ARC
+  5
+B9
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch10
+100
+AcDbCircle
+ 10
+85.00000000000001
+ 20
+0.0000000000000105
+ 30
+0.0
+ 40
+5.000000000000017
+100
+AcDbArc
+ 50
+180.0000000000001
+ 51
+269.9999999999998
+  0
+ARC
+  5
+BA
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch10
+100
+AcDbCircle
+ 10
+85.00000000000001
+ 20
+94.99999999999998
+ 30
+0.0
+ 40
+5.000000000000017
+100
+AcDbArc
+ 50
+90.00000000000017
+ 51
+179.9999999999996
+  0
+ARC
+  5
+BB
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch10
+100
+AcDbCircle
+ 10
+115.0
+ 20
+0.0000000000000111
+ 30
+0.0
+ 40
+5.000000000000017
+100
+AcDbArc
+ 50
+270.0000000000002
+ 51
+359.9999999999998
+  0
+LINE
+  5
+BC
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch10
+100
+AcDbLine
+ 10
+115.0
+ 20
+100.0
+ 30
+0.0
+ 11
+85.0
+ 21
+100.0
+ 31
+0.0
+  0
+LINE
+  5
+BD
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch10
+100
+AcDbLine
+ 10
+80.0
+ 20
+95.0
+ 30
+0.0
+ 11
+80.0
+ 21
+0.0
+ 31
+0.0
+  0
+ARC
+  5
+BE
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch10
+100
+AcDbCircle
+ 10
+115.0
+ 20
+94.99999999999998
+ 30
+0.0
+ 40
+5.000000000000017
+100
+AcDbArc
+ 50
+0.0000000000001628
+ 51
+89.99999999999969
+  0
+LINE
+  5
+BF
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch10
+100
+AcDbLine
+ 10
+85.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+115.0
+ 21
+-5.000000000000007
+ 31
+0.0
+  0
+POINT
+  5
+C1
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch11
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+C3
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+C4
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbPoint
+ 10
+25.0
+ 20
+-20.0
+ 30
+0.0
+  0
+POINT
+  5
+C5
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbPoint
+ 10
+102.0
+ 20
+-55.0
+ 30
+0.0
+  0
+POINT
+  5
+C6
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbPoint
+ 10
+124.0
+ 20
+-55.0
+ 30
+0.0
+  0
+POINT
+  5
+C7
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbPoint
+ 10
+45.0
+ 20
+-55.0
+ 30
+0.0
+  0
+POINT
+  5
+C8
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbPoint
+ 10
+144.0
+ 20
+-20.0
+ 30
+0.0
+  0
+POINT
+  5
+C9
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbPoint
+ 10
+67.0
+ 20
+-55.0
+ 30
+0.0
+  0
+LINE
+  5
+CA
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbLine
+ 10
+30.0
+ 20
+-20.0
+ 30
+0.0
+ 11
+139.0
+ 21
+-20.0
+ 31
+0.0
+  0
+LINE
+  5
+CB
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbLine
+ 10
+144.0
+ 20
+-25.0
+ 30
+0.0
+ 11
+144.0
+ 21
+-36.0
+ 31
+0.0
+  0
+LINE
+  5
+CC
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbLine
+ 10
+25.0
+ 20
+-25.0
+ 30
+0.0
+ 11
+25.0
+ 21
+-36.0
+ 31
+0.0
+  0
+LINE
+  5
+CD
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbLine
+ 10
+25.0
+ 20
+-36.0
+ 30
+0.0
+ 11
+45.0
+ 21
+-36.0
+ 31
+0.0
+  0
+LINE
+  5
+CE
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbLine
+ 10
+144.0
+ 20
+-36.0
+ 30
+0.0
+ 11
+124.0
+ 21
+-36.0
+ 31
+0.0
+  0
+LINE
+  5
+CF
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbLine
+ 10
+50.0
+ 20
+-55.0
+ 30
+0.0
+ 11
+62.0
+ 21
+-55.0
+ 31
+0.0
+  0
+LINE
+  5
+D0
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbLine
+ 10
+67.00000000000001
+ 20
+-50.0
+ 30
+0.0
+ 11
+67.0
+ 21
+-36.0
+ 31
+0.0
+  0
+LINE
+  5
+D1
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbLine
+ 10
+45.0
+ 20
+-36.0
+ 30
+0.0
+ 11
+45.0
+ 21
+-50.0
+ 31
+0.0
+  0
+LINE
+  5
+D2
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbLine
+ 10
+124.0
+ 20
+-36.0
+ 30
+0.0
+ 11
+124.0
+ 21
+-50.0
+ 31
+0.0
+  0
+LINE
+  5
+D3
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbLine
+ 10
+67.0
+ 20
+-36.0
+ 30
+0.0
+ 11
+102.0
+ 21
+-36.0
+ 31
+0.0
+  0
+ARC
+  5
+D4
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbCircle
+ 10
+30.0
+ 20
+-25.0
+ 30
+0.0
+ 40
+4.999999999999991
+100
+AcDbArc
+ 50
+89.99999999999992
+ 51
+180.0000000000001
+  0
+LINE
+  5
+D5
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbLine
+ 10
+102.0
+ 20
+-50.0
+ 30
+0.0
+ 11
+102.0
+ 21
+-36.0
+ 31
+0.0
+  0
+ARC
+  5
+D6
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbCircle
+ 10
+139.0
+ 20
+-25.00000000000001
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+0.0000000000000814
+ 51
+89.99999999999969
+  0
+ARC
+  5
+D7
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbCircle
+ 10
+62.00000000000001
+ 20
+-50.0
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+269.9999999999999
+ 51
+0.0
+  0
+ARC
+  5
+D8
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbCircle
+ 10
+50.0
+ 20
+-50.0
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+180.0
+ 51
+270.0
+  0
+ARC
+  5
+D9
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbCircle
+ 10
+119.0
+ 20
+-50.0
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+270.0000000000002
+ 51
+359.9999999999999
+  0
+LINE
+  5
+DA
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbLine
+ 10
+119.0
+ 20
+-55.0
+ 30
+0.0
+ 11
+107.0
+ 21
+-55.0
+ 31
+0.0
+  0
+ARC
+  5
+DB
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch12
+100
+AcDbCircle
+ 10
+107.0
+ 20
+-50.0
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+180.0000000000001
+ 51
+270.0
+  0
+POINT
+  5
+DD
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch13
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+DF
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+E0
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbPoint
+ 10
+102.0
+ 20
+-105.0
+ 30
+0.0
+  0
+POINT
+  5
+E1
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbPoint
+ 10
+25.0
+ 20
+-70.0
+ 30
+0.0
+  0
+POINT
+  5
+E2
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbPoint
+ 10
+45.0
+ 20
+-105.0
+ 30
+0.0
+  0
+POINT
+  5
+E3
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbPoint
+ 10
+67.0
+ 20
+-105.0
+ 30
+0.0
+  0
+POINT
+  5
+E4
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbPoint
+ 10
+124.0
+ 20
+-105.0
+ 30
+0.0
+  0
+POINT
+  5
+E5
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbPoint
+ 10
+144.0
+ 20
+-70.0
+ 30
+0.0
+  0
+LINE
+  5
+E6
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbLine
+ 10
+45.0
+ 20
+-86.0
+ 30
+0.0
+ 11
+45.0
+ 21
+-100.0
+ 31
+0.0
+  0
+LINE
+  5
+E7
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbLine
+ 10
+144.0
+ 20
+-86.0
+ 30
+0.0
+ 11
+124.0
+ 21
+-86.0
+ 31
+0.0
+  0
+LINE
+  5
+E8
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbLine
+ 10
+30.0
+ 20
+-70.0
+ 30
+0.0
+ 11
+139.0
+ 21
+-70.0
+ 31
+0.0
+  0
+LINE
+  5
+E9
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbLine
+ 10
+50.0
+ 20
+-105.0
+ 30
+0.0
+ 11
+62.0
+ 21
+-105.0
+ 31
+0.0
+  0
+LINE
+  5
+EA
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbLine
+ 10
+67.0
+ 20
+-86.0
+ 30
+0.0
+ 11
+102.0
+ 21
+-86.0
+ 31
+0.0
+  0
+ARC
+  5
+EB
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbCircle
+ 10
+62.0
+ 20
+-100.0
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+270.0
+ 51
+0.0
+  0
+ARC
+  5
+EC
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbCircle
+ 10
+30.0
+ 20
+-75.0
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+89.99999999999992
+ 51
+180.0
+  0
+LINE
+  5
+ED
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbLine
+ 10
+25.0
+ 20
+-86.0
+ 30
+0.0
+ 11
+45.0
+ 21
+-86.0
+ 31
+0.0
+  0
+LINE
+  5
+EE
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbLine
+ 10
+67.0
+ 20
+-100.0
+ 30
+0.0
+ 11
+67.0
+ 21
+-86.0
+ 31
+0.0
+  0
+ARC
+  5
+EF
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbCircle
+ 10
+139.0
+ 20
+-75.00000000000001
+ 30
+0.0
+ 40
+5.0
+100
+AcDbArc
+ 50
+0.0000000000001628
+ 51
+89.99999999999969
+  0
+ARC
+  5
+F0
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbCircle
+ 10
+107.0
+ 20
+-100.0
+ 30
+0.0
+ 40
+5.000000000000017
+100
+AcDbArc
+ 50
+180.0000000000001
+ 51
+269.9999999999997
+  0
+ARC
+  5
+F1
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbCircle
+ 10
+119.0
+ 20
+-100.0
+ 30
+0.0
+ 40
+5.000000000000017
+100
+AcDbArc
+ 50
+270.0000000000002
+ 51
+359.9999999999997
+  0
+LINE
+  5
+F2
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbLine
+ 10
+124.0
+ 20
+-86.0
+ 30
+0.0
+ 11
+124.0
+ 21
+-100.0
+ 31
+0.0
+  0
+LINE
+  5
+F3
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbLine
+ 10
+102.0
+ 20
+-100.0
+ 30
+0.0
+ 11
+102.0
+ 21
+-86.0
+ 31
+0.0
+  0
+LINE
+  5
+F4
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbLine
+ 10
+144.0
+ 20
+-75.0
+ 30
+0.0
+ 11
+144.0
+ 21
+-86.0
+ 31
+0.0
+  0
+LINE
+  5
+F5
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbLine
+ 10
+25.0
+ 20
+-75.0
+ 30
+0.0
+ 11
+25.0
+ 21
+-86.0
+ 31
+0.0
+  0
+ARC
+  5
+F6
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbCircle
+ 10
+50.0
+ 20
+-100.0
+ 30
+0.0
+ 40
+5.000000000000008
+100
+AcDbArc
+ 50
+180.0
+ 51
+269.9999999999999
+  0
+LINE
+  5
+F7
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch14
+100
+AcDbLine
+ 10
+119.0
+ 20
+-105.0
+ 30
+0.0
+ 11
+107.0
+ 21
+-105.0
+ 31
+0.0
+  0
+POINT
+  5
+F9
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+CIRCLE
+  5
+FA
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbCircle
+ 10
+-80.00000119209289
+ 20
+-40.00000059604644
+ 30
+0.0
+ 40
+3.000000044703483
+  0
+LINE
+  5
+FB
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbLine
+ 10
+-126.0000018775463
+ 20
+10.00000014901161
+ 30
+0.0
+ 11
+-126.0000018775463
+ 21
+6.500000149011611
+ 31
+0.0
+  0
+LINE
+  5
+FC
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbLine
+ 10
+-126.0000018775463
+ 20
+6.500000149011611
+ 30
+0.0
+ 11
+-14.00000187754629
+ 21
+6.500000149011611
+ 31
+0.0
+  0
+LINE
+  5
+FD
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbLine
+ 10
+-87.00000129640102
+ 20
+-80.00000108778477
+ 30
+0.0
+ 11
+-87.00000163912774
+ 21
+-73.00000108778476
+ 31
+0.0
+  0
+LINE
+  5
+FE
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbLine
+ 10
+-126.0000018775463
+ 20
+10.00000014901161
+ 30
+0.0
+ 11
+-14.00000187754629
+ 21
+10.00000014901161
+ 31
+0.0
+  0
+LINE
+  5
+FF
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbLine
+ 10
+-110.0000016391277
+ 20
+-73.00000108778476
+ 30
+0.0
+ 11
+-110.0000016391277
+ 21
+-80.00000108778477
+ 31
+0.0
+  0
+LINE
+  5
+100
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbLine
+ 10
+-53.00000078976154
+ 20
+-73.00000108778476
+ 30
+0.0
+ 11
+-53.00000078976154
+ 21
+-80.00000119209289
+ 31
+0.0
+  0
+LINE
+  5
+101
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbLine
+ 10
+-14.0000018775463
+ 20
+10.00000014901161
+ 30
+0.0
+ 11
+-14.0000018775463
+ 21
+6.500000149011611
+ 31
+0.0
+  0
+LINE
+  5
+102
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbLine
+ 10
+-53.00000078976154
+ 20
+-80.00000119209289
+ 30
+0.0
+ 11
+-30.00000044703484
+ 21
+-80.00000119209289
+ 31
+0.0
+  0
+CIRCLE
+  5
+103
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbCircle
+ 10
+-70.00000104308128
+ 20
+-40.00000059604644
+ 30
+0.0
+ 40
+3.000000044703483
+  0
+LINE
+  5
+104
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbLine
+ 10
+-110.0000016391277
+ 20
+-80.00000108778477
+ 30
+0.0
+ 11
+-87.00000129640102
+ 21
+-80.00000108778477
+ 31
+0.0
+  0
+LINE
+  5
+105
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbLine
+ 10
+-53.00000078976154
+ 20
+-73.00000108778476
+ 30
+0.0
+ 11
+-30.0000007897616
+ 21
+-72.99999996168276
+ 31
+0.0
+  0
+LINE
+  5
+106
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbLine
+ 10
+-30.00000044703484
+ 20
+-80.00000119209289
+ 30
+0.0
+ 11
+-30.0000007897616
+ 21
+-72.99999996168276
+ 31
+0.0
+  0
+LINE
+  5
+107
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch15
+100
+AcDbLine
+ 10
+-110.0000016391277
+ 20
+-73.00000108778476
+ 30
+0.0
+ 11
+-87.00000163912774
+ 21
+-73.00000108778476
+ 31
+0.0
+  0
+POINT
+  5
+109
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch16
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+LINE
+  5
+10A
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch16
+100
+AcDbLine
+ 10
+-77.00000114738941
+ 20
+-40.00000059604644
+ 30
+0.0
+ 11
+-73.00000108778476
+ 21
+-40.00000059604644
+ 31
+0.0
+  0
+LINE
+  5
+10B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch16
+100
+AcDbLine
+ 10
+-83.00000123679637
+ 20
+-40.00000059604644
+ 30
+0.0
+ 11
+-85.0000012665987
+ 21
+-40.00000059604644
+ 31
+0.0
+  0
+POINT
+  5
+10D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch17
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+LINE
+  5
+10E
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch17
+100
+AcDbLine
+ 10
+-67.00000099837779
+ 20
+-40.00000059604644
+ 30
+0.0
+ 11
+-65.00000096857547
+ 21
+-40.00000059604644
+ 31
+0.0
+  0
+POINT
+  5
+110
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch18
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+112
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+SPLINE
+  5
+113
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-51.91268913441689
+ 20
+-97.46382180458326
+ 30
+0.0
+ 10
+-51.70805059367211
+ 20
+-97.3956090570094
+ 30
+0.0
+ 10
+-51.30423061543496
+ 20
+-97.3956090570094
+ 30
+0.0
+  0
+SPLINE
+  5
+114
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-51.30423061543496
+ 20
+-97.3956090570094
+ 30
+0.0
+ 10
+-50.61391703778298
+ 20
+-97.3956090570094
+ 30
+0.0
+ 10
+-50.10095648461373
+ 20
+-97.80215743786115
+ 30
+0.0
+  0
+SPLINE
+  5
+115
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-50.10095648461373
+ 20
+-97.80215743786115
+ 30
+0.0
+ 10
+-49.5879962294677
+ 20
+-98.2059774160983
+ 30
+0.0
+ 10
+-49.58799622946771
+ 20
+-98.81989274030942
+ 30
+0.0
+  0
+SPLINE
+  5
+116
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-49.58799622946771
+ 20
+-98.81989274030942
+ 30
+0.0
+ 10
+-49.58799622946771
+ 20
+-99.31648198372144
+ 30
+0.0
+ 10
+-49.99727301293406
+ 20
+-99.78032950168866
+ 30
+0.0
+  0
+SPLINE
+  5
+117
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-49.99727301293406
+ 20
+-99.78032950168866
+ 30
+0.0
+ 10
+-50.4038213937858
+ 20
+-100.2414477229716
+ 30
+0.0
+ 10
+-51.05320744210276
+ 20
+-100.5033851028086
+ 30
+0.0
+  0
+LINE
+  5
+118
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-51.05320744210275
+ 20
+-100.5033851028086
+ 30
+0.0
+ 11
+-51.34243004017863
+ 21
+-100.0231671691538
+ 31
+0.0
+  0
+SPLINE
+  5
+119
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-51.34243004017863
+ 20
+-100.0231671691538
+ 30
+0.0
+ 10
+-50.09277097874673
+ 20
+-99.52384892708082
+ 30
+0.0
+ 10
+-50.09277097874673
+ 20
+-98.86082056766767
+ 30
+0.0
+  0
+SPLINE
+  5
+11A
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-45.77353529625923
+ 20
+-96.57432678943889
+ 30
+0.0
+ 10
+-45.81173412495643
+ 20
+-96.18142071968334
+ 30
+0.0
+ 10
+-45.92360369854957
+ 20
+-95.78578654533641
+ 30
+0.0
+  0
+LINE
+  5
+11B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-45.92360369854957
+ 20
+-95.78578654533641
+ 30
+0.0
+ 11
+-45.35334400826484
+ 21
+-95.74213031536357
+ 31
+0.0
+  0
+SPLINE
+  5
+11C
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-45.35334400826484
+ 20
+-95.74213031536357
+ 30
+0.0
+ 10
+-45.309687778292
+ 20
+-96.03680971866863
+ 30
+0.0
+ 10
+-45.26876024895698
+ 20
+-96.55249867445247
+ 30
+0.0
+  0
+SPLINE
+  5
+11D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-46.56480424099955
+ 20
+-100.012252962649
+ 30
+0.0
+ 10
+-46.21828310185465
+ 20
+-99.73667327171581
+ 30
+0.0
+ 10
+-46.03001527482065
+ 20
+-99.38469473129527
+ 30
+0.0
+  0
+LINE
+  5
+11E
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-47.92360357934028
+ 20
+-95.94949725872295
+ 30
+0.0
+ 11
+-47.39427201443702
+ 21
+-96.06682333952205
+ 31
+0.0
+  0
+LINE
+  5
+11F
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-53.5552538930753
+ 20
+-96.62616852527875
+ 30
+0.0
+ 11
+-52.41746403270752
+ 21
+-96.48974273210782
+ 31
+0.0
+  0
+SPLINE
+  5
+120
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-51.84174768620521
+ 20
+-95.83762828117626
+ 30
+0.0
+ 10
+-51.87721841031105
+ 20
+-96.03953812128324
+ 30
+0.0
+ 10
+-51.90723203116448
+ 20
+-96.41880128389615
+ 30
+0.0
+  0
+LINE
+  5
+121
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-45.36425821476968
+ 20
+-99.02180258041637
+ 30
+0.0
+ 11
+-45.268760248957
+ 21
+-99.02180258041637
+ 31
+0.0
+  0
+SPLINE
+  5
+122
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-45.268760248957
+ 20
+-99.02180258041637
+ 30
+0.0
+ 10
+-44.86494056874307
+ 20
+-99.02180258041637
+ 30
+0.0
+ 10
+-44.62210290127786
+ 20
+-98.68619564777629
+ 30
+0.0
+  0
+SPLINE
+  5
+123
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-51.77899204188379
+ 20
+-98.94267592436094
+ 30
+0.0
+ 10
+-51.50341205292733
+ 20
+-98.6616391301753
+ 30
+0.0
+ 10
+-51.23056076460869
+ 20
+-97.92766902452726
+ 30
+0.0
+  0
+SPLINE
+  5
+124
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-44.62210290127786
+ 20
+-98.68619564777629
+ 30
+0.0
+ 10
+-44.37653712922127
+ 20
+-98.3478600144984
+ 30
+0.0
+ 10
+-44.37653712922127
+ 20
+-97.96586815124767
+ 30
+0.0
+  0
+SPLINE
+  5
+125
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-44.37653712922127
+ 20
+-97.96586815124767
+ 30
+0.0
+ 10
+-44.37653712922127
+ 20
+-97.61116150623577
+ 30
+0.0
+ 10
+-44.60845999413521
+ 20
+-97.35468122965114
+ 30
+0.0
+  0
+SPLINE
+  5
+126
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-44.33288030320199
+ 20
+-99.06545881038921
+ 30
+0.0
+ 10
+-44.72578637295755
+ 20
+-99.5238489270808
+ 30
+0.0
+ 10
+-45.33424489193948
+ 20
+-99.5238489270808
+ 30
+0.0
+  0
+SPLINE
+  5
+127
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-45.54433993989023
+ 20
+-99.50747791534679
+ 30
+0.0
+ 10
+-45.75989238911661
+ 20
+-100.069551503718
+ 30
+0.0
+ 10
+-46.16916947060618
+ 20
+-100.4351723552348
+ 30
+0.0
+  0
+SPLINE
+  5
+128
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-44.60845999413521
+ 20
+-97.35468122965114
+ 30
+0.0
+ 10
+-44.84038405114204
+ 20
+-97.09820125108974
+ 30
+0.0
+ 10
+-45.23056142025978
+ 20
+-97.0545450211169
+ 30
+0.0
+  0
+SPLINE
+  5
+129
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-50.09277097874673
+ 20
+-98.86082056766767
+ 30
+0.0
+ 10
+-50.09277097874673
+ 20
+-98.58251217609662
+ 30
+0.0
+ 10
+-50.26739589863808
+ 20
+-98.35058871513624
+ 30
+0.0
+  0
+SPLINE
+  5
+12A
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-51.87994711094887
+ 20
+-97.9713252545001
+ 30
+0.0
+ 10
+-51.83356218033821
+ 20
+-98.57432667022962
+ 30
+0.0
+ 10
+-51.77899204188379
+ 20
+-98.94267592436094
+ 30
+0.0
+  0
+SPLINE
+  5
+12B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-52.38199330860169
+ 20
+-98.08319423204679
+ 30
+0.0
+ 10
+-52.77489922934563
+ 20
+-98.2250768304469
+ 30
+0.0
+ 10
+-53.03683646017105
+ 20
+-98.51429942852277
+ 30
+0.0
+  0
+SPLINE
+  5
+12C
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-52.82946951681169
+ 20
+-99.55931965118665
+ 30
+0.0
+ 10
+-52.57026068860086
+ 20
+-99.55931965118665
+ 30
+0.0
+ 10
+-52.22646810108217
+ 20
+-99.34103850132245
+ 30
+0.0
+  0
+SPLINE
+  5
+12D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-45.23056142025978
+ 20
+-97.0545450211169
+ 30
+0.0
+ 10
+-45.21418981247933
+ 20
+-97.35195282703655
+ 30
+0.0
+ 10
+-45.21418981247933
+ 20
+-97.66300324207561
+ 30
+0.0
+  0
+SPLINE
+  5
+12E
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-45.21418981247933
+ 20
+-97.66300324207561
+ 30
+0.0
+ 10
+-45.21418981247933
+ 20
+-98.44881508356349
+ 30
+0.0
+ 10
+-45.36425821476968
+ 20
+-99.02180258041637
+ 30
+0.0
+  0
+LINE
+  5
+12F
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-52.42292098694832
+ 20
+-96.99997458463924
+ 30
+0.0
+ 11
+-53.49522665136845
+ 21
+-97.12821487194318
+ 31
+0.0
+  0
+SPLINE
+  5
+130
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-46.9004111736396
+ 20
+-97.09547255045192
+ 30
+0.0
+ 10
+-46.37380830937416
+ 20
+-96.65891054874675
+ 30
+0.0
+ 10
+-45.77353529625923
+ 20
+-96.57432678943889
+ 30
+0.0
+  0
+SPLINE
+  5
+131
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-47.39427201443702
+ 20
+-96.06682333952205
+ 30
+0.0
+ 10
+-47.57708244019538
+ 20
+-97.09001574522273
+ 30
+0.0
+ 10
+-47.57708244019539
+ 20
+-97.78851512676494
+ 30
+0.0
+  0
+LINE
+  5
+132
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-52.37653635436088
+ 20
+-95.80488595968501
+ 30
+0.0
+ 11
+-51.84174768620521
+ 21
+-95.83762828117626
+ 31
+0.0
+  0
+SPLINE
+  5
+133
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-53.54433983558211
+ 20
+-99.82944253689069
+ 30
+0.0
+ 10
+-53.80354858928712
+ 20
+-99.56750515705365
+ 30
+0.0
+ 10
+-53.80354858928712
+ 20
+-99.16095677620191
+ 30
+0.0
+  0
+SPLINE
+  5
+134
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-51.35607264929802
+ 20
+-97.92221192127485
+ 30
+0.0
+ 10
+-51.63165234023125
+ 20
+-97.92221192127485
+ 30
+0.0
+ 10
+-51.87994711094887
+ 20
+-97.9713252545001
+ 30
+0.0
+  0
+LINE
+  5
+135
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-46.94679550820382
+ 20
+-97.87582728868736
+ 30
+0.0
+ 11
+-46.94679550820382
+ 21
+-97.6875597596766
+ 31
+0.0
+  0
+SPLINE
+  5
+136
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-46.03001527482065
+ 20
+-99.38469473129527
+ 30
+0.0
+ 10
+-46.50750510388406
+ 20
+-99.16368547683971
+ 30
+0.0
+ 10
+-46.72851495438608
+ 20
+-98.8035217285754
+ 30
+0.0
+  0
+SPLINE
+  5
+137
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-53.80354858928712
+ 20
+-99.16095677620191
+ 30
+0.0
+ 10
+-53.80354858928712
+ 20
+-98.63162521129865
+ 30
+0.0
+ 10
+-53.42701382928879
+ 20
+-98.2059774160983
+ 30
+0.0
+  0
+LINE
+  5
+138
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-51.51159785681756
+ 20
+-99.84308484798688
+ 30
+0.0
+ 11
+-52.00818710022959
+ 21
+-100.0559091926219
+ 31
+0.0
+  0
+LINE
+  5
+139
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-52.41746403270752
+ 20
+-96.48974273210782
+ 30
+0.0
+ 11
+-52.37653635436088
+ 21
+-95.80488595968501
+ 31
+0.0
+  0
+SPLINE
+  5
+13A
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-53.42701382928879
+ 20
+-98.2059774160983
+ 30
+0.0
+ 10
+-53.04775051766426
+ 20
+-97.78032932287473
+ 30
+0.0
+ 10
+-52.41746403270752
+ 20
+-97.57023397690076
+ 30
+0.0
+  0
+SPLINE
+  5
+13B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-47.82810561352762
+ 20
+-99.8785555720927
+ 30
+0.0
+ 10
+-48.09277109795602
+ 20
+-98.69983825689571
+ 30
+0.0
+ 10
+-48.09277109795601
+ 20
+-97.54567716127651
+ 30
+0.0
+  0
+SPLINE
+  5
+13C
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-50.72305761271508
+ 20
+-98.02316699033994
+ 30
+0.0
+ 10
+-51.08049266034158
+ 20
+-99.06545881038923
+ 30
+0.0
+ 10
+-51.65075175457986
+ 20
+-99.53749183422345
+ 30
+0.0
+  0
+SPLINE
+  5
+13D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-53.29877369099649
+ 20
+-99.12275764948148
+ 30
+0.0
+ 10
+-53.29877369099649
+ 20
+-99.31375387913007
+ 30
+0.0
+ 10
+-53.16780515008958
+ 20
+-99.43653646713514
+ 30
+0.0
+  0
+LINE
+  5
+13E
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-52.00818710022959
+ 20
+-100.0559091926219
+ 30
+0.0
+ 11
+-52.08731390529665
+ 21
+-99.8539990544917
+ 31
+0.0
+  0
+SPLINE
+  5
+13F
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-52.08731390529665
+ 20
+-99.8539990544917
+ 30
+0.0
+ 10
+-52.45293475681338
+ 20
+-100.0886512160899
+ 30
+0.0
+ 10
+-52.90313936763796
+ 20
+-100.0886512160899
+ 30
+0.0
+  0
+LINE
+  5
+140
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-50.18826894455941
+ 20
+-96.72985199695844
+ 30
+0.0
+ 11
+-51.92360304289849
+ 21
+-96.95358995205182
+ 31
+0.0
+  0
+LINE
+  5
+141
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-51.90723203116448
+ 20
+-96.41880128389615
+ 30
+0.0
+ 11
+-50.25921039277108
+ 21
+-96.2223485470416
+ 31
+0.0
+  0
+SPLINE
+  5
+142
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-44.29195217782051
+ 20
+-96.96723256117122
+ 30
+0.0
+ 10
+-43.93997482949288
+ 20
+-97.34649572378414
+ 30
+0.0
+ 10
+-43.93997482949288
+ 20
+-97.97132525450008
+ 30
+0.0
+  0
+SPLINE
+  5
+143
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-45.33424489193948
+ 20
+-99.5238489270808
+ 30
+0.0
+ 10
+-45.43792836361917
+ 20
+-99.5238489270808
+ 30
+0.0
+ 10
+-45.54433993989023
+ 20
+-99.50747791534679
+ 30
+0.0
+  0
+LINE
+  5
+144
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-50.25921039277108
+ 20
+-96.2223485470416
+ 30
+0.0
+ 11
+-50.18826894455941
+ 21
+-96.72985199695844
+ 31
+0.0
+  0
+LINE
+  5
+145
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-51.92360304289849
+ 20
+-96.95358995205182
+ 30
+0.0
+ 11
+-51.91268913441689
+ 21
+-97.46382180458326
+ 31
+0.0
+  0
+SPLINE
+  5
+146
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-52.22646810108217
+ 20
+-99.34103850132245
+ 30
+0.0
+ 10
+-52.35743679100068
+ 20
+-98.62616840606946
+ 30
+0.0
+ 10
+-52.38199330860169
+ 20
+-98.08319423204679
+ 30
+0.0
+  0
+SPLINE
+  5
+147
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-51.65075175457986
+ 20
+-99.53749183422345
+ 30
+0.0
+ 10
+-51.60436712199243
+ 20
+-99.69301704174299
+ 30
+0.0
+ 10
+-51.51159785681757
+ 20
+-99.84308484798688
+ 30
+0.0
+  0
+LINE
+  5
+148
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-53.49522665136845
+ 20
+-97.12821487194318
+ 30
+0.0
+ 11
+-53.5552538930753
+ 21
+-96.62616852527875
+ 31
+0.0
+  0
+SPLINE
+  5
+149
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-53.16780515008958
+ 20
+-99.43653646713514
+ 30
+0.0
+ 10
+-53.03683646017106
+ 20
+-99.55931965118665
+ 30
+0.0
+ 10
+-52.82946951681169
+ 20
+-99.55931965118665
+ 30
+0.0
+  0
+SPLINE
+  5
+14A
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-43.93997482949288
+ 20
+-97.97132525450008
+ 30
+0.0
+ 10
+-43.93997482949288
+ 20
+-98.60434029108303
+ 30
+0.0
+ 10
+-44.33288030320199
+ 20
+-99.06545881038921
+ 30
+0.0
+  0
+LINE
+  5
+14B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-46.16916947060618
+ 20
+-100.4351723552348
+ 30
+0.0
+ 11
+-46.56480424099955
+ 21
+-100.012252962649
+ 31
+0.0
+  0
+LINE
+  5
+14C
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-47.30423085385355
+ 20
+-99.725759065211
+ 30
+0.0
+ 11
+-47.82810561352762
+ 21
+-99.8785555720927
+ 31
+0.0
+  0
+SPLINE
+  5
+14D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-47.40791432553323
+ 20
+-98.96996084457652
+ 30
+0.0
+ 10
+-47.40791432553323
+ 20
+-99.33558169609325
+ 30
+0.0
+ 10
+-47.30423085385355
+ 20
+-99.72575906521099
+ 30
+0.0
+  0
+SPLINE
+  5
+14E
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-50.26739589863808
+ 20
+-98.35058871513624
+ 30
+0.0
+ 10
+-50.44202081852944
+ 20
+-98.11593655353803
+ 30
+0.0
+ 10
+-50.72305761271508
+ 20
+-98.02316699033994
+ 30
+0.0
+  0
+SPLINE
+  5
+14F
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-52.90313936763796
+ 20
+-100.0886512160899
+ 30
+0.0
+ 10
+-53.28240260475668
+ 20
+-100.0886512160899
+ 30
+0.0
+ 10
+-53.54433983558211
+ 20
+-99.82944253689069
+ 30
+0.0
+  0
+SPLINE
+  5
+150
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-45.26876024895698
+ 20
+-96.55249867445247
+ 30
+0.0
+ 10
+-44.64120261364967
+ 20
+-96.58796910053508
+ 30
+0.0
+ 10
+-44.29195217782051
+ 20
+-96.96723256117122
+ 30
+0.0
+  0
+SPLINE
+  5
+151
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-48.09277109795601
+ 20
+-97.54567716127651
+ 30
+0.0
+ 10
+-48.09277109795601
+ 20
+-96.63435403114574
+ 30
+0.0
+ 10
+-47.92360357934028
+ 20
+-95.94949725872295
+ 30
+0.0
+  0
+SPLINE
+  5
+152
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-47.57708244019539
+ 20
+-97.78851512676494
+ 30
+0.0
+ 10
+-47.57708244019539
+ 20
+-98.0013388753535
+ 30
+0.0
+ 10
+-47.57162503891976
+ 20
+-98.08865133529918
+ 30
+0.0
+  0
+LINE
+  5
+153
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-47.57162503891976
+ 20
+-98.08865133529918
+ 30
+0.0
+ 11
+-47.56071142846138
+ 21
+-98.08865133529918
+ 31
+0.0
+  0
+SPLINE
+  5
+154
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-47.56071142846138
+ 20
+-98.08865133529918
+ 30
+0.0
+ 10
+-47.42428533726723
+ 20
+-97.5293061495425
+ 30
+0.0
+ 10
+-46.9004111736396
+ 20
+-97.09547255045192
+ 30
+0.0
+  0
+SPLINE
+  5
+155
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-46.94679550820382
+ 20
+-97.68755975967662
+ 30
+0.0
+ 10
+-47.40791432553322
+ 20
+-98.17050669199245
+ 30
+0.0
+ 10
+-47.40791432553323
+ 20
+-98.96996084457652
+ 30
+0.0
+  0
+SPLINE
+  5
+156
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-52.41746403270752
+ 20
+-97.57023397690076
+ 30
+0.0
+ 10
+-52.42292098694832
+ 20
+-97.38469485050458
+ 30
+0.0
+ 10
+-52.42292098694832
+ 20
+-96.99997458463926
+ 30
+0.0
+  0
+SPLINE
+  5
+157
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-51.23056076460869
+ 20
+-97.92766902452726
+ 30
+0.0
+ 10
+-51.26876018935234
+ 20
+-97.92221192127485
+ 30
+0.0
+ 10
+-51.35607264929802
+ 20
+-97.92221192127485
+ 30
+0.0
+  0
+SPLINE
+  5
+158
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-46.72851495438608
+ 20
+-98.8035217285754
+ 30
+0.0
+ 10
+-46.94679550820382
+ 20
+-98.44062927967327
+ 30
+0.0
+ 10
+-46.94679550820382
+ 20
+-97.8758272886874
+ 30
+0.0
+  0
+SPLINE
+  5
+159
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-53.03683646017105
+ 20
+-98.51429942852277
+ 30
+0.0
+ 10
+-53.29877369099649
+ 20
+-98.80352172857541
+ 30
+0.0
+ 10
+-53.29877369099649
+ 20
+-99.12275764948148
+ 30
+0.0
+  0
+LINE
+  5
+15A
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-42.67667345696482
+ 20
+-100.0340807796122
+ 30
+0.0
+ 11
+-42.81037025147471
+ 21
+-99.49110690361276
+ 31
+0.0
+  0
+SPLINE
+  5
+15B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-30.76944164925605
+ 20
+-96.26600477701439
+ 30
+0.0
+ 10
+-30.10914139443428
+ 20
+-96.26600477701439
+ 30
+0.0
+ 10
+-29.26057390862495
+ 20
+-96.08046594864143
+ 30
+0.0
+  0
+LINE
+  5
+15C
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-22.21828274422676
+ 20
+-96.59069780117285
+ 30
+0.0
+ 11
+-22.21828274422678
+ 21
+-99.72030225998175
+ 31
+0.0
+  0
+SPLINE
+  5
+15D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-29.26057390862495
+ 20
+-96.08046594864143
+ 30
+0.0
+ 10
+-28.4092789142707
+ 20
+-95.89219841963066
+ 30
+0.0
+ 10
+-28.04092936211615
+ 20
+-95.62480423456444
+ 30
+0.0
+  0
+SPLINE
+  5
+15E
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-45.72169356041939
+ 20
+-97.37923804527538
+ 30
+0.0
+ 10
+-45.72169356041939
+ 20
+-97.24554095274227
+ 30
+0.0
+ 10
+-45.7326077669242
+ 20
+-97.06000182634609
+ 30
+0.0
+  0
+SPLINE
+  5
+15F
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-46.35470859700234
+ 20
+-98.47064319854991
+ 30
+0.0
+ 10
+-46.18281237774881
+ 20
+-98.81443563705699
+ 30
+0.0
+ 10
+-45.86084775620492
+ 20
+-98.90993360286968
+ 30
+0.0
+  0
+SPLINE
+  5
+160
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-45.7326077669242
+ 20
+-97.06000182634609
+ 30
+0.0
+ 10
+-46.16644136601478
+ 20
+-97.09001574522273
+ 30
+0.0
+ 10
+-46.52114801102669
+ 20
+-97.37378094202297
+ 30
+0.0
+  0
+LINE
+  5
+161
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-42.16916970902475
+ 20
+-99.42016545540111
+ 30
+0.0
+ 11
+-40.71487240487128
+ 21
+-95.74213031536357
+ 31
+0.0
+  0
+LINE
+  5
+162
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-42.81037025147471
+ 20
+-99.49110690361278
+ 30
+0.0
+ 11
+-42.16916970902475
+ 21
+-99.42016545540111
+ 31
+0.0
+  0
+SPLINE
+  5
+163
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-39.51432637864144
+ 20
+-97.58660498863475
+ 30
+0.0
+ 10
+-38.766713663874
+ 20
+-98.52521333700435
+ 30
+0.0
+ 10
+-38.07912878685984
+ 20
+-100.1050222278239
+ 30
+0.0
+  0
+LINE
+  5
+164
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-37.20600537949593
+ 20
+-97.76941541439311
+ 30
+0.0
+ 11
+-32.54570536309274
+ 21
+-97.76941541439311
+ 31
+0.0
+  0
+SPLINE
+  5
+165
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-29.78172115975412
+ 20
+-99.3410385013224
+ 30
+0.0
+ 10
+-29.42974142724069
+ 20
+-98.8662773728968
+ 30
+0.0
+ 10
+-29.42155651742013
+ 20
+-97.9003841043116
+ 30
+0.0
+  0
+LINE
+  5
+166
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-31.59618191414864
+ 20
+-97.9003841043116
+ 30
+0.0
+ 11
+-31.59618191414864
+ 21
+-97.39560905700935
+ 31
+0.0
+  0
+LINE
+  5
+167
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-29.41609911614449
+ 20
+-97.39560905700935
+ 30
+0.0
+ 11
+-29.41609911614449
+ 21
+-96.64253953701271
+ 31
+0.0
+  0
+LINE
+  5
+168
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-40.03274373703987
+ 20
+-97.81034294372814
+ 30
+0.0
+ 11
+-39.51432637864144
+ 21
+-97.58660498863475
+ 31
+0.0
+  0
+SPLINE
+  5
+169
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-30.87585501366648
+ 20
+-100.0231671691538
+ 30
+0.0
+ 10
+-30.13097099953685
+ 20
+-99.81580022579445
+ 30
+0.0
+ 10
+-29.78172115975412
+ 20
+-99.3410385013224
+ 30
+0.0
+  0
+LINE
+  5
+16A
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-22.68758825951609
+ 20
+-99.72030225998175
+ 30
+0.0
+ 11
+-22.68758825951609
+ 21
+-99.54294863945257
+ 31
+0.0
+  0
+LINE
+  5
+16B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-30.44474892312083
+ 20
+-100.4706430793406
+ 30
+0.0
+ 11
+-30.87585501366648
+ 21
+-100.0231671691538
+ 31
+0.0
+  0
+LINE
+  5
+16C
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-22.68758825951609
+ 20
+-99.54294863945257
+ 30
+0.0
+ 11
+-25.34788660698924
+ 21
+-99.54294863945257
+ 31
+0.0
+  0
+LINE
+  5
+16D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-26.93588070565255
+ 20
+-97.9003841043116
+ 30
+0.0
+ 11
+-28.90859656029732
+ 21
+-97.9003841043116
+ 31
+0.0
+  0
+SPLINE
+  5
+16E
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-28.90859656029732
+ 20
+-97.9003841043116
+ 30
+0.0
+ 10
+-28.90859656029734
+ 20
+-99.88946977859749
+ 30
+0.0
+ 10
+-30.44474892312083
+ 20
+-100.4706430793406
+ 30
+0.0
+  0
+SPLINE
+  5
+16F
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-45.86084775620492
+ 20
+-98.90993360286968
+ 30
+0.0
+ 10
+-45.80354861908944
+ 20
+-98.6943811536433
+ 30
+0.0
+ 10
+-45.76262108975441
+ 20
+-98.23871973758953
+ 30
+0.0
+  0
+SPLINE
+  5
+170
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-45.76262108975441
+ 20
+-98.23871973758953
+ 30
+0.0
+ 10
+-45.72169356041939
+ 20
+-97.78032932287471
+ 30
+0.0
+ 10
+-45.72169356041939
+ 20
+-97.37923804527538
+ 30
+0.0
+  0
+LINE
+  5
+171
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-25.34788660698924
+ 20
+-99.54294863945257
+ 30
+0.0
+ 11
+-25.34788660698923
+ 21
+-99.07910141950857
+ 31
+0.0
+  0
+SPLINE
+  5
+172
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-46.52114801102669
+ 20
+-97.37378094202297
+ 30
+0.0
+ 10
+-46.52660481625588
+ 20
+-97.53476325279491
+ 30
+0.0
+ 10
+-46.52660481625588
+ 20
+-97.60297600036876
+ 30
+0.0
+  0
+LINE
+  5
+173
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-28.91405396157296
+ 20
+-96.5252134562136
+ 30
+0.0
+ 11
+-28.91405396157296
+ 21
+-97.39560905700935
+ 31
+0.0
+  0
+LINE
+  5
+174
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-25.34788660698923
+ 20
+-99.07910141950857
+ 30
+0.0
+ 11
+-22.68758825951608
+ 21
+-99.07910141950857
+ 31
+0.0
+  0
+LINE
+  5
+175
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-22.68758825951608
+ 20
+-98.25236204868566
+ 30
+0.0
+ 11
+-25.17599157982858
+ 21
+-98.25236204868566
+ 31
+0.0
+  0
+SPLINE
+  5
+176
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-31.29331640893012
+ 20
+-96.23326245552314
+ 30
+0.0
+ 10
+-31.06684975319892
+ 20
+-96.26600477701439
+ 30
+0.0
+ 10
+-30.76944164925605
+ 20
+-96.26600477701439
+ 30
+0.0
+  0
+LINE
+  5
+177
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-25.17599157982858
+ 20
+-97.78851512676489
+ 30
+0.0
+ 11
+-22.68758825951608
+ 21
+-97.78851512676489
+ 31
+0.0
+  0
+SPLINE
+  5
+178
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-27.66712240868598
+ 20
+-96.05045202976478
+ 30
+0.0
+ 10
+-28.19372706109077
+ 20
+-96.35058853632225
+ 30
+0.0
+ 10
+-28.91405396157296
+ 20
+-96.5252134562136
+ 30
+0.0
+  0
+LINE
+  5
+179
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-22.68758825951608
+ 20
+-97.78851512676489
+ 30
+0.0
+ 11
+-22.68758825951607
+ 21
+-97.05454502111685
+ 31
+0.0
+  0
+LINE
+  5
+17A
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-26.93588070565255
+ 20
+-97.39560905700935
+ 30
+0.0
+ 11
+-26.93588070565255
+ 21
+-97.9003841043116
+ 31
+0.0
+  0
+LINE
+  5
+17B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-32.54570536309274
+ 20
+-97.76941541439311
+ 30
+0.0
+ 11
+-32.54570536309274
+ 21
+-98.27419016367212
+ 31
+0.0
+  0
+LINE
+  5
+17C
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-40.25102548295051
+ 20
+-95.92221204048412
+ 30
+0.0
+ 11
+-41.60982422524485
+ 21
+-99.34649590259807
+ 31
+0.0
+  0
+LINE
+  5
+17D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-22.68758825951607
+ 20
+-97.05454502111685
+ 30
+0.0
+ 11
+-25.24147562676461
+ 21
+-97.05454502111685
+ 31
+0.0
+  0
+SPLINE
+  5
+17E
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-38.57571773224864
+ 20
+-100.3123891711833
+ 30
+0.0
+ 10
+-38.6766736953834
+ 20
+-99.96313992744701
+ 30
+0.0
+ 10
+-38.87585453682932
+ 20
+-99.55931965118663
+ 30
+0.0
+  0
+LINE
+  5
+17F
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-31.06412224465401
+ 20
+-96.80897865301384
+ 30
+0.0
+ 11
+-31.29331640893013
+ 21
+-96.23326245552314
+ 31
+0.0
+  0
+LINE
+  5
+180
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-25.24147562676461
+ 20
+-97.05454502111685
+ 30
+0.0
+ 11
+-25.24147562676461
+ 21
+-96.59069780117285
+ 31
+0.0
+  0
+SPLINE
+  5
+181
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-46.52660481625588
+ 20
+-97.60297600036876
+ 30
+0.0
+ 10
+-46.52660481625588
+ 20
+-98.12685046201961
+ 30
+0.0
+ 10
+-46.35470859700234
+ 20
+-98.47064319854991
+ 30
+0.0
+  0
+SPLINE
+  5
+182
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-29.41609911614449
+ 20
+-96.64253953701271
+ 30
+0.0
+ 10
+-30.13915590935738
+ 20
+-96.78169373279823
+ 30
+0.0
+ 10
+-31.06412224465401
+ 20
+-96.80897865301384
+ 30
+0.0
+  0
+LINE
+  5
+183
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-22.21828274422678
+ 20
+-99.72030225998175
+ 30
+0.0
+ 11
+-22.68758825951609
+ 21
+-99.72030225998175
+ 31
+0.0
+  0
+LINE
+  5
+184
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-25.24147562676461
+ 20
+-96.59069780117285
+ 30
+0.0
+ 11
+-22.21828274422676
+ 21
+-96.59069780117285
+ 31
+0.0
+  0
+LINE
+  5
+185
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-25.17599157982858
+ 20
+-98.25236204868566
+ 30
+0.0
+ 11
+-25.17599157982858
+ 21
+-97.78851512676489
+ 31
+0.0
+  0
+LINE
+  5
+186
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-28.91405396157296
+ 20
+-97.39560905700935
+ 30
+0.0
+ 11
+-26.93588070565255
+ 21
+-97.39560905700935
+ 31
+0.0
+  0
+LINE
+  5
+187
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-28.04092936211615
+ 20
+-95.62480423456444
+ 30
+0.0
+ 11
+-27.66712240868598
+ 21
+-96.05045202976478
+ 31
+0.0
+  0
+LINE
+  5
+188
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-29.42155651742013
+ 20
+-97.9003841043116
+ 30
+0.0
+ 11
+-31.59618191414864
+ 21
+-97.9003841043116
+ 31
+0.0
+  0
+SPLINE
+  5
+189
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-38.87585453682932
+ 20
+-99.55931965118663
+ 30
+0.0
+ 10
+-41.69168047600779
+ 20
+-99.84308484798686
+ 30
+0.0
+ 10
+-42.67667345696482
+ 20
+-100.0340807796122
+ 30
+0.0
+  0
+LINE
+  5
+18A
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-32.54570536309274
+ 20
+-98.2741901636721
+ 30
+0.0
+ 11
+-37.20600537949594
+ 21
+-98.2741901636721
+ 31
+0.0
+  0
+LINE
+  5
+18B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-41.60982422524484
+ 20
+-99.34649590259807
+ 30
+0.0
+ 11
+-39.16780523949655
+ 21
+-99.07910141950862
+ 31
+0.0
+  0
+LINE
+  5
+18C
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-22.68758825951608
+ 20
+-99.07910141950857
+ 30
+0.0
+ 11
+-22.68758825951608
+ 21
+-98.25236204868566
+ 31
+0.0
+  0
+LINE
+  5
+18D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-40.71487240487129
+ 20
+-95.74213031536357
+ 30
+0.0
+ 11
+-40.25102548295051
+ 21
+-95.92221204048412
+ 31
+0.0
+  0
+SPLINE
+  5
+18E
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-39.16780523949655
+ 20
+-99.07910141950862
+ 30
+0.0
+ 10
+-39.63438086205514
+ 20
+-98.20597741609828
+ 30
+0.0
+ 10
+-40.03274373703987
+ 20
+-97.81034294372814
+ 30
+0.0
+  0
+LINE
+  5
+18F
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-38.07912878685984
+ 20
+-100.1050222278239
+ 30
+0.0
+ 11
+-38.57571773224864
+ 21
+-100.3123891711833
+ 31
+0.0
+  0
+LINE
+  5
+190
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-37.20600537949594
+ 20
+-98.2741901636721
+ 30
+0.0
+ 11
+-37.20600537949593
+ 21
+-97.7694154143931
+ 31
+0.0
+  0
+LINE
+  5
+191
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch19
+100
+AcDbLine
+ 10
+-31.59618191414864
+ 20
+-97.39560905700935
+ 30
+0.0
+ 11
+-29.41609911614449
+ 21
+-97.39560905700935
+ 31
+0.0
+  0
+POINT
+  5
+193
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch20
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+LINE
+  5
+194
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch20
+100
+AcDbLine
+ 10
+-5.000000074505805
+ 20
+-95.20000137090683
+ 30
+0.0
+ 11
+18.29999992549419
+ 21
+-95.20000137090683
+ 31
+0.0
+  0
+LINE
+  5
+195
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch20
+100
+AcDbLine
+ 10
+-5.000000074505805
+ 20
+-92.00000137090682
+ 30
+0.0
+ 11
+18.29999992549419
+ 21
+-92.00000137090682
+ 31
+0.0
+  0
+LINE
+  5
+196
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch20
+100
+AcDbLine
+ 10
+-5.000000074505805
+ 20
+-92.00000137090682
+ 30
+0.0
+ 11
+-5.000000074505805
+ 21
+-95.20000137090683
+ 31
+0.0
+  0
+LINE
+  5
+197
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch20
+100
+AcDbLine
+ 10
+18.29999992549419
+ 20
+-92.00000137090682
+ 30
+0.0
+ 11
+18.29999992549419
+ 21
+-95.20000137090683
+ 31
+0.0
+  0
+LINE
+  5
+198
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch20
+100
+AcDbLine
+ 10
+-5.000000074505805
+ 20
+-100.0000014901161
+ 30
+0.0
+ 11
+18.29999992549419
+ 21
+-100.0000014901161
+ 31
+0.0
+  0
+LINE
+  5
+199
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch20
+100
+AcDbLine
+ 10
+-5.000000074505805
+ 20
+-100.0000014901161
+ 30
+0.0
+ 11
+-5.000000074505805
+ 21
+-103.2000014901161
+ 31
+0.0
+  0
+LINE
+  5
+19A
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch20
+100
+AcDbLine
+ 10
+-5.000000074505805
+ 20
+-103.2000014901161
+ 30
+0.0
+ 11
+18.29999992549419
+ 21
+-103.2000014901161
+ 31
+0.0
+  0
+LINE
+  5
+19B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch20
+100
+AcDbLine
+ 10
+18.29999992549419
+ 20
+-100.0000014901161
+ 30
+0.0
+ 11
+18.29999992549419
+ 21
+-103.2000014901161
+ 31
+0.0
+  0
+POINT
+  5
+19D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch21
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+19F
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch22
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+1A1
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch23
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.8531669370137253
+  0
+POINT
+  5
+1A3
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch24
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+1A5
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch25
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+1A7
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch26
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+1A9
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch27
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+1AB
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch28
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+1AD
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch29
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+POINT
+  5
+1AF
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbPoint
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+LINE
+  5
+1B0
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-104.2778888684976
+ 20
+41.54462459017545
+ 30
+0.0
+ 11
+-123.2274118406045
+ 21
+41.54462459017546
+ 31
+0.0
+  0
+LINE
+  5
+1B1
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-104.2778888684976
+ 20
+38.53644015719206
+ 30
+0.0
+ 11
+-104.2778888684976
+ 21
+41.54462459017545
+ 31
+0.0
+  0
+LINE
+  5
+1B2
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-123.2274118406045
+ 20
+44.61420180727751
+ 30
+0.0
+ 11
+-104.2778888684976
+ 21
+44.6142018072775
+ 31
+0.0
+  0
+LINE
+  5
+1B3
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-112.0746150953042
+ 20
+35.4873264067343
+ 30
+0.0
+ 11
+-112.0746150953042
+ 21
+32.92934539248258
+ 31
+0.0
+  0
+LINE
+  5
+1B4
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-101.085528467344
+ 20
+35.48732640673429
+ 30
+0.0
+ 11
+-112.0746150953042
+ 21
+35.4873264067343
+ 31
+0.0
+  0
+LINE
+  5
+1B5
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-112.0746150953042
+ 20
+32.92934539248258
+ 30
+0.0
+ 11
+-95.0077644330728
+ 21
+32.92934539248257
+ 31
+0.0
+  0
+LINE
+  5
+1B6
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-95.0077644330728
+ 20
+32.92934539248258
+ 30
+0.0
+ 11
+-95.0077644330728
+ 21
+29.85976817538054
+ 31
+0.0
+  0
+LINE
+  5
+1B7
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-104.2778888684976
+ 20
+44.6142018072775
+ 30
+0.0
+ 11
+-104.2778888684976
+ 21
+47.37682225634366
+ 31
+0.0
+  0
+LINE
+  5
+1B8
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-104.2778888684976
+ 20
+47.37682225634366
+ 30
+0.0
+ 11
+-123.2274118406045
+ 21
+47.37682225634367
+ 31
+0.0
+  0
+LINE
+  5
+1B9
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-123.2274118406045
+ 20
+47.37682225634367
+ 30
+0.0
+ 11
+-123.2274118406045
+ 21
+44.61420180727751
+ 31
+0.0
+  0
+LINE
+  5
+1BA
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-95.0077644330728
+ 20
+29.85976817538053
+ 30
+0.0
+ 11
+-112.0746150953042
+ 21
+29.85976817538054
+ 31
+0.0
+  0
+LINE
+  5
+1BB
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-104.6871653539407
+ 20
+57.05622317721158
+ 30
+0.0
+ 11
+-95.88771018807769
+ 21
+57.05622317721158
+ 31
+0.0
+  0
+LINE
+  5
+1BC
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-115.2669754964578
+ 20
+23.45458152224332
+ 30
+0.0
+ 11
+-115.2669754964578
+ 21
+29.85976817538053
+ 31
+0.0
+  0
+LINE
+  5
+1BD
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-115.2669754964578
+ 20
+29.85976817538053
+ 30
+0.0
+ 11
+-132.3542887312638
+ 21
+29.85976817538054
+ 31
+0.0
+  0
+LINE
+  5
+1BE
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-95.88771018807769
+ 20
+54.00710942675381
+ 30
+0.0
+ 11
+-104.6871653539407
+ 21
+54.00710942675381
+ 31
+0.0
+  0
+LINE
+  5
+1BF
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-115.2669754964578
+ 20
+32.92934539248259
+ 30
+0.0
+ 11
+-115.2669754964578
+ 21
+35.4873264067343
+ 31
+0.0
+  0
+LINE
+  5
+1C0
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-119.7076300126779
+ 20
+57.05622317721159
+ 30
+0.0
+ 11
+-107.8795257550942
+ 21
+57.05622317721159
+ 31
+0.0
+  0
+LINE
+  5
+1C1
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-112.0746150953042
+ 20
+29.85976817538054
+ 30
+0.0
+ 11
+-112.0746150953042
+ 21
+23.45458152224333
+ 31
+0.0
+  0
+LINE
+  5
+1C2
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-132.3542887312638
+ 20
+32.92934539248259
+ 30
+0.0
+ 11
+-115.2669754964578
+ 21
+32.92934539248258
+ 31
+0.0
+  0
+LINE
+  5
+1C3
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-122.8795269471872
+ 20
+50.97845914294035
+ 30
+0.0
+ 11
+-122.8795269471872
+ 21
+54.00710942675383
+ 31
+0.0
+  0
+LINE
+  5
+1C4
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-132.3542887312638
+ 20
+29.85976817538054
+ 30
+0.0
+ 11
+-132.3542887312638
+ 21
+32.9293453924826
+ 31
+0.0
+  0
+LINE
+  5
+1C5
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-107.8795257550943
+ 20
+54.00710942675382
+ 30
+0.0
+ 11
+-119.7076300126779
+ 21
+54.00710942675382
+ 31
+0.0
+  0
+LINE
+  5
+1C6
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-119.7076300126779
+ 20
+50.97845914294035
+ 30
+0.0
+ 11
+-122.8795269471872
+ 21
+50.97845914294035
+ 31
+0.0
+  0
+LINE
+  5
+1C7
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-122.8795269471872
+ 20
+54.00710942675383
+ 30
+0.0
+ 11
+-131.6380539876687
+ 21
+54.00710942675383
+ 31
+0.0
+  0
+LINE
+  5
+1C8
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-131.6380539876687
+ 20
+54.00710942675383
+ 30
+0.0
+ 11
+-131.6380539876687
+ 21
+57.05622317721159
+ 31
+0.0
+  0
+LINE
+  5
+1C9
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-115.2669754964578
+ 20
+35.4873264067343
+ 30
+0.0
+ 11
+-126.3993087751138
+ 21
+35.4873264067343
+ 31
+0.0
+  0
+LINE
+  5
+1CA
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-104.6871653539407
+ 20
+50.97845914294034
+ 30
+0.0
+ 11
+-107.8795257550943
+ 21
+50.97845914294034
+ 31
+0.0
+  0
+LINE
+  5
+1CB
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-107.8795257550943
+ 20
+50.97845914294034
+ 30
+0.0
+ 11
+-107.8795257550943
+ 21
+54.00710942675382
+ 31
+0.0
+  0
+LINE
+  5
+1CC
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-122.8795269471872
+ 20
+61.21038319994719
+ 30
+0.0
+ 11
+-119.7076300126779
+ 21
+61.21038319994719
+ 31
+0.0
+  0
+LINE
+  5
+1CD
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-126.3993087751138
+ 20
+35.4873264067343
+ 30
+0.0
+ 11
+-126.3993087751138
+ 21
+50.44639947344572
+ 31
+0.0
+  0
+LINE
+  5
+1CE
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-119.7076300126779
+ 20
+61.21038319994719
+ 30
+0.0
+ 11
+-119.7076300126779
+ 21
+57.05622317721159
+ 31
+0.0
+  0
+LINE
+  5
+1CF
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-104.6871653539407
+ 20
+54.00710942675381
+ 30
+0.0
+ 11
+-104.6871653539407
+ 21
+50.97845914294034
+ 31
+0.0
+  0
+LINE
+  5
+1D0
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-131.6380539876687
+ 20
+57.05622317721159
+ 30
+0.0
+ 11
+-122.8795269471871
+ 21
+57.05622317721159
+ 31
+0.0
+  0
+LINE
+  5
+1D1
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-119.7076300126779
+ 20
+54.00710942675382
+ 30
+0.0
+ 11
+-119.7076300126779
+ 21
+50.97845914294035
+ 31
+0.0
+  0
+LINE
+  5
+1D2
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-107.8795257550942
+ 20
+57.05622317721159
+ 30
+0.0
+ 11
+-107.8795257550943
+ 21
+61.08760001589566
+ 31
+0.0
+  0
+LINE
+  5
+1D3
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-112.0746150953042
+ 20
+23.45458152224332
+ 30
+0.0
+ 11
+-115.2669754964578
+ 21
+23.45458152224332
+ 31
+0.0
+  0
+LINE
+  5
+1D4
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-95.88771018807769
+ 20
+57.05622317721158
+ 30
+0.0
+ 11
+-95.88771018807769
+ 21
+54.00710942675381
+ 31
+0.0
+  0
+LINE
+  5
+1D5
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-126.3993087751138
+ 20
+50.44639947344572
+ 30
+0.0
+ 11
+-101.085528467344
+ 21
+50.44639947344571
+ 31
+0.0
+  0
+LINE
+  5
+1D6
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-122.8795269471872
+ 20
+57.05622317721159
+ 30
+0.0
+ 11
+-122.8795269471872
+ 21
+61.21038319994719
+ 31
+0.0
+  0
+LINE
+  5
+1D7
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-107.8795257550943
+ 20
+61.08760001589566
+ 30
+0.0
+ 11
+-104.6871653539407
+ 21
+61.08760001589566
+ 31
+0.0
+  0
+LINE
+  5
+1D8
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-101.085528467344
+ 20
+50.44639947344571
+ 30
+0.0
+ 11
+-101.085528467344
+ 21
+35.48732640673429
+ 31
+0.0
+  0
+LINE
+  5
+1D9
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-104.6871653539407
+ 20
+61.08760001589566
+ 30
+0.0
+ 11
+-104.6871653539407
+ 21
+57.05622317721158
+ 31
+0.0
+  0
+LINE
+  5
+1DA
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-41.26969966714263
+ 20
+31.27177359988002
+ 30
+0.0
+ 11
+-40.02139720742583
+ 21
+35.46686294008998
+ 31
+0.0
+  0
+LINE
+  5
+1DB
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-52.03368816201568
+ 20
+26.29905822207241
+ 30
+0.0
+ 11
+-55.88088664834381
+ 21
+26.29905822207241
+ 31
+0.0
+  0
+LINE
+  5
+1DC
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-25.00094089333893
+ 20
+35.48732640673427
+ 30
+0.0
+ 11
+-23.71171626870514
+ 21
+30.82156779696254
+ 31
+0.0
+  0
+LINE
+  5
+1DD
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-11.00367221658111
+ 20
+31.27177359988002
+ 30
+0.0
+ 11
+-9.755369756864308
+ 21
+35.46686294008998
+ 31
+0.0
+  0
+LINE
+  5
+1DE
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-45.60804042641997
+ 20
+48.0316651098898
+ 30
+0.0
+ 11
+-42.35427532021881
+ 21
+35.42593600680141
+ 31
+0.0
+  0
+LINE
+  5
+1DF
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-79.65987834756254
+ 20
+48.0316651098898
+ 30
+0.0
+ 11
+-75.87406787698149
+ 21
+48.0316651098898
+ 31
+0.0
+  0
+LINE
+  5
+1E0
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-28.45933589761138
+ 20
+48.03166510988979
+ 30
+0.0
+ 11
+-25.00094089333893
+ 21
+35.48732640673427
+ 31
+0.0
+  0
+LINE
+  5
+1E1
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-19.12781390969633
+ 20
+48.03166510988979
+ 30
+0.0
+ 11
+-15.34200343911528
+ 21
+48.03166510988979
+ 31
+0.0
+  0
+LINE
+  5
+1E2
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-17.36793193642974
+ 20
+43.0180227987936
+ 30
+0.0
+ 11
+-21.767651174711
+ 21
+26.2990582220724
+ 31
+0.0
+  0
+SPLINE
+  5
+1E3
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-53.97775325600981
+ 20
+30.82156779696255
+ 30
+0.0
+ 10
+-53.8958898526895
+ 20
+31.1694538824728
+ 30
+0.0
+ 10
+-52.85223636453032
+ 20
+35.30315043856411
+ 30
+0.0
+  0
+LINE
+  5
+1E4
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-42.35427532021881
+ 20
+35.42593600680141
+ 30
+0.0
+ 11
+-41.26969966714263
+ 21
+31.27177359988003
+ 31
+0.0
+  0
+LINE
+  5
+1E5
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-77.89998683755278
+ 20
+43.0180227987936
+ 30
+0.0
+ 11
+-82.2997156125772
+ 21
+26.29905822207242
+ 31
+0.0
+  0
+LINE
+  5
+1E6
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-55.88088664834381
+ 20
+26.29905822207241
+ 30
+0.0
+ 11
+-62.53163966958403
+ 21
+48.0316651098898
+ 31
+0.0
+  0
+LINE
+  5
+1E7
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-52.85223636453032
+ 20
+35.30315043856411
+ 30
+0.0
+ 11
+-49.39384136025786
+ 21
+48.0316651098898
+ 31
+0.0
+  0
+LINE
+  5
+1E8
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-75.87406787698149
+ 20
+48.0316651098898
+ 30
+0.0
+ 11
+-72.62031230752349
+ 21
+35.42593600680142
+ 31
+0.0
+  0
+LINE
+  5
+1E9
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-73.60257777993561
+ 20
+26.29905822207242
+ 30
+0.0
+ 11
+-77.06097278420806
+ 21
+39.3140661947897
+ 31
+0.0
+  0
+LINE
+  5
+1EA
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-49.39384136025786
+ 20
+48.0316651098898
+ 30
+0.0
+ 11
+-45.60804042641997
+ 21
+48.0316651098898
+ 31
+0.0
+  0
+LINE
+  5
+1EB
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-43.33654079263091
+ 20
+26.29905822207241
+ 30
+0.0
+ 11
+-46.79493579690336
+ 21
+39.3140661947897
+ 31
+0.0
+  0
+LINE
+  5
+1EC
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-32.26560268227935
+ 20
+48.03166510988979
+ 30
+0.0
+ 11
+-28.45933589761138
+ 21
+48.03166510988979
+ 31
+0.0
+  0
+LINE
+  5
+1ED
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-9.755369756864309
+ 20
+35.46686294008998
+ 30
+0.0
+ 11
+-6.030956838773485
+ 21
+48.03166510988977
+ 31
+0.0
+  0
+LINE
+  5
+1EE
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-2.449776266263725
+ 20
+48.03166510988979
+ 30
+0.0
+ 11
+-9.243780706571353
+ 21
+26.2990582220724
+ 31
+0.0
+  0
+LINE
+  5
+1EF
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-12.08824786965729
+ 20
+35.42593600680141
+ 30
+0.0
+ 11
+-11.00367221658111
+ 21
+31.27177359988002
+ 31
+0.0
+  0
+LINE
+  5
+1F0
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-72.62031230752349
+ 20
+35.42593600680142
+ 30
+0.0
+ 11
+-71.53573188607573
+ 21
+31.27177359988003
+ 31
+0.0
+  0
+LINE
+  5
+1F1
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-13.07052287881255
+ 20
+26.29905822207239
+ 30
+0.0
+ 11
+-16.52890834634184
+ 21
+39.31406619478968
+ 31
+0.0
+  0
+LINE
+  5
+1F2
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-123.2274118406045
+ 20
+41.54462459017546
+ 30
+0.0
+ 11
+-123.2274118406045
+ 21
+38.53644015719206
+ 31
+0.0
+  0
+LINE
+  5
+1F3
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-88.99139556710601
+ 20
+48.0316651098898
+ 30
+0.0
+ 11
+-85.53300533120513
+ 21
+35.48732640673428
+ 31
+0.0
+  0
+LINE
+  5
+1F4
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-62.98184070412993
+ 20
+48.0316651098898
+ 30
+0.0
+ 11
+-69.77584037606597
+ 21
+26.29905822207242
+ 31
+0.0
+  0
+LINE
+  5
+1F5
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-69.77584037606597
+ 20
+26.29905822207242
+ 30
+0.0
+ 11
+-73.60257777993561
+ 21
+26.29905822207242
+ 31
+0.0
+  0
+LINE
+  5
+1F6
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-58.7253633481729
+ 20
+48.0316651098898
+ 30
+0.0
+ 11
+-55.26696834390044
+ 21
+35.48732640673428
+ 31
+0.0
+  0
+LINE
+  5
+1F7
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-123.2274118406045
+ 20
+38.53644015719206
+ 30
+0.0
+ 11
+-104.2778888684976
+ 21
+38.53644015719206
+ 31
+0.0
+  0
+LINE
+  5
+1F8
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-22.58620891396881
+ 20
+35.3031504385641
+ 30
+0.0
+ 11
+-19.12781390969633
+ 21
+48.03166510988979
+ 31
+0.0
+  0
+LINE
+  5
+1F9
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-21.767651174711
+ 20
+26.2990582220724
+ 30
+0.0
+ 11
+-25.61484966103912
+ 21
+26.2990582220724
+ 31
+0.0
+  0
+LINE
+  5
+1FA
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-32.71581325356841
+ 20
+48.03166510988979
+ 30
+0.0
+ 11
+-39.50980815713288
+ 21
+26.2990582220724
+ 31
+0.0
+  0
+LINE
+  5
+1FB
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-16.52890834634184
+ 20
+39.31406619478969
+ 30
+0.0
+ 11
+-17.36793193642974
+ 21
+43.0180227987936
+ 31
+0.0
+  0
+LINE
+  5
+1FC
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-15.34200343911528
+ 20
+48.03166510988979
+ 30
+0.0
+ 11
+-12.08824786965729
+ 21
+35.42593600680141
+ 31
+0.0
+  0
+LINE
+  5
+1FD
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-92.79767188851712
+ 20
+48.0316651098898
+ 30
+0.0
+ 11
+-88.99139556710601
+ 21
+48.0316651098898
+ 31
+0.0
+  0
+LINE
+  5
+1FE
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-77.06097278420806
+ 20
+39.3140661947897
+ 30
+0.0
+ 11
+-77.89998683755278
+ 21
+43.0180227987936
+ 31
+0.0
+  0
+LINE
+  5
+1FF
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-70.28743419473052
+ 20
+35.46686294008999
+ 30
+0.0
+ 11
+-66.56301650826811
+ 21
+48.03166510988979
+ 31
+0.0
+  0
+LINE
+  5
+200
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-36.29698428933501
+ 20
+48.03166510988979
+ 30
+0.0
+ 11
+-32.71581325356841
+ 21
+48.03166510988979
+ 31
+0.0
+  0
+LINE
+  5
+201
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-46.79493579690336
+ 20
+39.3140661947897
+ 30
+0.0
+ 11
+-47.6339498502481
+ 21
+43.0180227987936
+ 31
+0.0
+  0
+SPLINE
+  5
+202
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-23.71171626870513
+ 20
+30.82156779696254
+ 30
+0.0
+ 10
+-23.62986240212798
+ 20
+31.16945388247279
+ 30
+0.0
+ 10
+-22.5862089139688
+ 20
+35.3031504385641
+ 30
+0.0
+  0
+LINE
+  5
+203
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-86.1469188672769
+ 20
+26.29905822207242
+ 30
+0.0
+ 11
+-92.79767188851712
+ 21
+48.0316651098898
+ 31
+0.0
+  0
+LINE
+  5
+204
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-47.6339498502481
+ 20
+43.0180227987936
+ 30
+0.0
+ 11
+-52.03368816201568
+ 21
+26.29905822207241
+ 31
+0.0
+  0
+LINE
+  5
+205
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-6.030956838773484
+ 20
+48.03166510988977
+ 30
+0.0
+ 11
+-2.449776266263725
+ 21
+48.03166510988978
+ 31
+0.0
+  0
+LINE
+  5
+206
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-83.11826858346343
+ 20
+35.30315043856412
+ 30
+0.0
+ 11
+-79.65987834756254
+ 21
+48.0316651098898
+ 31
+0.0
+  0
+LINE
+  5
+207
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-66.56301650826811
+ 20
+48.0316651098898
+ 30
+0.0
+ 11
+-62.98184070412992
+ 21
+48.0316651098898
+ 31
+0.0
+  0
+LINE
+  5
+208
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-40.02139720742583
+ 20
+35.46686294008998
+ 30
+0.0
+ 11
+-36.29698428933501
+ 21
+48.03166510988979
+ 31
+0.0
+  0
+LINE
+  5
+209
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-71.53573188607573
+ 20
+31.27177359988003
+ 30
+0.0
+ 11
+-70.28743419473052
+ 21
+35.46686294009
+ 31
+0.0
+  0
+LINE
+  5
+20A
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-39.50980815713288
+ 20
+26.2990582220724
+ 30
+0.0
+ 11
+-43.33654079263091
+ 21
+26.29905822207241
+ 31
+0.0
+  0
+LINE
+  5
+20B
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-25.61484966103912
+ 20
+26.2990582220724
+ 30
+0.0
+ 11
+-32.26560268227935
+ 21
+48.03166510988979
+ 31
+0.0
+  0
+SPLINE
+  5
+20C
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbSpline
+210
+0.0
+220
+0.0
+230
+1.0
+ 70
+     8
+ 71
+     2
+ 72
+     6
+ 73
+     3
+ 74
+     0
+ 42
+0.000000001
+ 43
+0.0000000001
+ 40
+0.0
+ 40
+0.0
+ 40
+0.0
+ 40
+1.0
+ 40
+1.0
+ 40
+1.0
+ 10
+-84.24378070657134
+ 20
+30.82156779696255
+ 30
+0.0
+ 10
+-84.16192683999419
+ 20
+31.16945388247281
+ 30
+0.0
+ 10
+-83.11826858346343
+ 20
+35.30315043856412
+ 30
+0.0
+  0
+LINE
+  5
+20D
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-9.243780706571353
+ 20
+26.29905822207239
+ 30
+0.0
+ 11
+-13.07052287881255
+ 21
+26.29905822207239
+ 31
+0.0
+  0
+LINE
+  5
+20E
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-85.53300533120513
+ 20
+35.48732640673428
+ 30
+0.0
+ 11
+-84.24378070657134
+ 21
+30.82156779696255
+ 31
+0.0
+  0
+LINE
+  5
+20F
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-62.53163966958403
+ 20
+48.0316651098898
+ 30
+0.0
+ 11
+-58.7253633481729
+ 21
+48.0316651098898
+ 31
+0.0
+  0
+LINE
+  5
+210
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-82.2997156125772
+ 20
+26.29905822207242
+ 30
+0.0
+ 11
+-86.1469188672769
+ 21
+26.29905822207242
+ 31
+0.0
+  0
+LINE
+  5
+211
+330
+70
+100
+AcDbEntity
+  8
+レーザーカット v8_Sketch30
+100
+AcDbLine
+ 10
+-55.26696834390044
+ 20
+35.48732640673428
+ 30
+0.0
+ 11
+-53.97775325600981
+ 21
+30.82156779696255
+ 31
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_COLOR
+350
+63
+  3
+ACAD_DETAILVIEWSTYLE
+350
+6A
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_LAYOUT
+350
+62
+  3
+ACAD_MATERIAL
+350
+10
+  3
+ACAD_MLEADERSTYLE
+350
+66
+  3
+ACAD_MLINESTYLE
+350
+5F
+  3
+ACAD_PLOTSETTINGS
+350
+61
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+ACAD_SCALELIST
+350
+42
+  3
+ACAD_SECTIONVIEWSTYLE
+350
+68
+  3
+ACAD_TABLESTYLE
+350
+64
+  3
+ACAD_VISUALSTYLE
+350
+29
+  3
+ACDB_RECOMPOSE_DATA
+350
+21A
+  3
+AcDbVariableDictionary
+350
+212
+  0
+DICTIONARY
+  5
+63
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+6A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Imperial24
+350
+6B
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+62
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Layout1
+350
+6F
+  3
+Layout2
+350
+77
+  3
+Model
+350
+73
+  0
+DICTIONARY
+  5
+10
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+ByBlock
+350
+19
+  3
+ByLayer
+350
+11
+  3
+Global
+350
+21
+  0
+DICTIONARY
+  5
+66
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+67
+  0
+DICTIONARY
+  5
+5F
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+60
+  0
+DICTIONARY
+  5
+61
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+42
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+A0
+350
+43
+  3
+A1
+350
+44
+  3
+A2
+350
+45
+  3
+A3
+350
+46
+  3
+A4
+350
+47
+  3
+A5
+350
+48
+  3
+A6
+350
+49
+  3
+A7
+350
+4A
+  3
+A8
+350
+4B
+  3
+A9
+350
+4C
+  3
+B0
+350
+4D
+  3
+B1
+350
+4E
+  3
+B2
+350
+4F
+  3
+B3
+350
+50
+  3
+B4
+350
+51
+  3
+B5
+350
+52
+  3
+B6
+350
+53
+  0
+DICTIONARY
+  5
+68
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Imperial24
+350
+69
+  0
+DICTIONARY
+  5
+64
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+65
+  0
+DICTIONARY
+  5
+29
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+2dWireframe
+350
+2F
+  3
+Basic
+350
+2E
+  3
+Brighten
+350
+35
+  3
+ColorChange
+350
+39
+  3
+Conceptual
+350
+32
+  3
+Dim
+350
+34
+  3
+EdgeColorOff
+350
+41
+  3
+Facepattern
+350
+38
+  3
+Flat
+350
+2A
+  3
+FlatWithEdges
+350
+2B
+  3
+Gouraud
+350
+2C
+  3
+GouraudWithEdges
+350
+2D
+  3
+Hidden
+350
+31
+  3
+JitterOff
+350
+3F
+  3
+Linepattern
+350
+37
+  3
+OverhangOff
+350
+40
+  3
+Realistic
+350
+33
+  3
+Shaded
+350
+3E
+  3
+Shaded with edges
+350
+3D
+  3
+Shades of Gray
+350
+3A
+  3
+Sketchy
+350
+3B
+  3
+Thicken
+350
+36
+  3
+Wireframe
+350
+30
+  3
+X-Ray
+350
+3C
+  0
+XRECORD
+  5
+21A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbXrecord
+280
+     1
+ 90
+        1
+330
+65
+  0
+DICTIONARY
+  5
+212
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+CANNOSCALE
+350
+217
+  3
+CMLEADERSTYLE
+350
+214
+  3
+CTABLESTYLE
+350
+213
+  3
+CVIEWDETAILSTYLE
+350
+215
+  3
+CVIEWSECTIONSTYLE
+350
+216
+  0
+ACDBDETAILVIEWSTYLE
+  5
+6B
+102
+{ACAD_XDICTIONARY
+360
+21D
+102
+}
+102
+{ACAD_REACTORS
+330
+6A
+102
+}
+330
+6A
+100
+AcDbModelDocViewStyle
+ 70
+     0
+  3
+Imperial24
+290
+     0
+100
+AcDbDetailViewStyle
+ 70
+     0
+ 71
+     0
+ 90
+        3
+ 71
+     1
+340
+55
+ 62
+   256
+ 40
+0.24
+340
+0
+ 62
+   256
+ 40
+0.24
+300
+
+ 40
+0.36
+280
+     3
+ 71
+     2
+340
+5D
+ 90
+       25
+ 62
+   256
+ 71
+     3
+340
+55
+ 62
+   256
+ 40
+0.24
+ 90
+        1
+ 40
+0.75
+ 90
+        1
+300
+%<\AcVar ViewType \f "%tc1">% %<\AcVar ViewDetailId>%\PSCALE %<\AcVar ViewScale \f "%sn">%
+ 71
+     4
+340
+5D
+ 90
+       25
+ 62
+   256
+340
+5D
+ 90
+       25
+ 62
+   256
+280
+     0
+  0
+LAYOUT
+  5
+6F
+102
+{ACAD_REACTORS
+330
+62
+102
+}
+330
+62
+100
+AcDbPlotSettings
+  1
+
+  2
+
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+ 76
+     0
+ 77
+     2
+ 78
+   300
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+     1
+ 71
+     1
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+6C
+  0
+LAYOUT
+  5
+77
+102
+{ACAD_REACTORS
+330
+62
+102
+}
+330
+62
+100
+AcDbPlotSettings
+  1
+
+  2
+
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+ 76
+     0
+ 77
+     2
+ 78
+   300
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+     1
+ 71
+     2
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+74
+  0
+LAYOUT
+  5
+73
+102
+{ACAD_REACTORS
+330
+62
+102
+}
+330
+62
+100
+AcDbPlotSettings
+  1
+
+  2
+
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+  1712
+ 72
+     0
+ 73
+     0
+ 74
+     0
+  7
+
+ 75
+     0
+147
+1.0
+ 76
+     0
+ 77
+     2
+ 78
+   300
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+70
+  0
+MATERIAL
+  5
+19
+102
+{ACAD_XDICTIONARY
+360
+1A
+102
+}
+102
+{ACAD_REACTORS
+330
+10
+102
+}
+330
+10
+100
+AcDbMaterial
+  1
+ByBlock
+ 72
+     0
+ 43
+0.0208333333333333
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0208333333333333
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+1.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+1.0
+ 77
+     0
+ 47
+0.0208333333333333
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0208333333333333
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+1.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+1.0
+171
+     0
+ 49
+0.0208333333333333
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0208333333333333
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+1.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+1.0
+175
+     0
+142
+0.0208333333333333
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0208333333333333
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+1.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+1.0
+179
+     0
+144
+0.0208333333333333
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0208333333333333
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+1.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+1.0
+147
+0.0208333333333333
+147
+0.0
+147
+0.0
+147
+0.0
+147
+0.0
+147
+0.0208333333333333
+147
+0.0
+147
+0.0
+147
+0.0
+147
+0.0
+147
+1.0
+147
+0.0
+147
+0.0
+147
+0.0
+147
+0.0
+147
+1.0
+  0
+MATERIAL
+  5
+11
+102
+{ACAD_XDICTIONARY
+360
+12
+102
+}
+102
+{ACAD_REACTORS
+330
+10
+102
+}
+330
+10
+100
+AcDbMaterial
+  1
+ByLayer
+ 72
+     0
+ 43
+0.0208333333333333
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0208333333333333
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+1.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+1.0
+ 77
+     0
+ 47
+0.0208333333333333
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0208333333333333
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+1.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+1.0
+171
+     0
+ 49
+0.0208333333333333
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0208333333333333
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+1.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+1.0
+175
+     0
+142
+0.0208333333333333
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0208333333333333
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+1.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+1.0
+179
+     0
+144
+0.0208333333333333
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0208333333333333
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+1.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+1.0
+147
+0.0208333333333333
+147
+0.0
+147
+0.0
+147
+0.0
+147
+0.0
+147
+0.0208333333333333
+147
+0.0
+147
+0.0
+147
+0.0
+147
+0.0
+147
+1.0
+147
+0.0
+147
+0.0
+147
+0.0
+147
+0.0
+147
+1.0
+  0
+MATERIAL
+  5
+21
+102
+{ACAD_XDICTIONARY
+360
+22
+102
+}
+102
+{ACAD_REACTORS
+330
+10
+102
+}
+330
+10
+100
+AcDbMaterial
+  1
+Global
+ 72
+     0
+ 43
+0.0208333333333333
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0208333333333333
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+1.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+0.0
+ 43
+1.0
+ 77
+     0
+ 47
+0.0208333333333333
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0208333333333333
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+1.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+0.0
+ 47
+1.0
+171
+     0
+ 49
+0.0208333333333333
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0208333333333333
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+1.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+0.0
+ 49
+1.0
+175
+     0
+142
+0.0208333333333333
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0208333333333333
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+1.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+0.0
+142
+1.0
+179
+     0
+144
+0.0208333333333333
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0208333333333333
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+1.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+0.0
+144
+1.0
+147
+0.0208333333333333
+147
+0.0
+147
+0.0
+147
+0.0
+147
+0.0
+147
+0.0208333333333333
+147
+0.0
+147
+0.0
+147
+0.0
+147
+0.0
+147
+1.0
+147
+0.0
+147
+0.0
+147
+0.0
+147
+0.0
+147
+1.0
+  0
+MLEADERSTYLE
+  5
+67
+102
+{ACAD_REACTORS
+330
+66
+102
+}
+330
+66
+100
+AcDbMLeaderStyle
+179
+     2
+170
+     2
+171
+     1
+172
+     0
+ 90
+        2
+ 40
+0.0
+ 41
+0.0
+173
+     1
+ 91
+-1056964608
+340
+5B
+ 92
+       -2
+290
+     1
+ 42
+0.09
+291
+     1
+ 43
+0.36
+  3
+Standard
+ 44
+0.18
+300
+
+342
+55
+174
+     1
+178
+     6
+175
+     1
+176
+     0
+ 93
+-1056964608
+ 45
+0.18
+292
+     0
+297
+     0
+ 46
+0.18
+ 94
+-1056964608
+ 47
+1.0
+ 49
+1.0
+140
+1.0
+293
+     1
+141
+0.0
+294
+     1
+177
+     0
+142
+1.0
+295
+     0
+296
+     0
+143
+0.125
+271
+     0
+272
+     9
+273
+     9
+298
+     1
+  0
+MLINESTYLE
+  5
+60
+102
+{ACAD_REACTORS
+330
+5F
+102
+}
+330
+5F
+100
+AcDbMlineStyle
+  2
+STANDARD
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+SCALE
+  5
+43
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+1:1
+140
+1.0
+141
+1.0
+290
+     1
+  0
+SCALE
+  5
+44
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+1/128" = 1'-0"
+140
+0.0078125
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+45
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+1/64" = 1'-0"
+140
+0.015625
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+46
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+1/32" = 1'-0"
+140
+0.03125
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+47
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+1/16" = 1'-0"
+140
+0.0625
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+48
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+3/32" = 1'-0"
+140
+0.09375
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+49
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+1/8" = 1'-0"
+140
+0.125
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+4A
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+3/16" = 1'-0"
+140
+0.1875
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+4B
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+1/4" = 1'-0"
+140
+0.25
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+4C
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+3/8" = 1'-0"
+140
+0.375
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+4D
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+1/2" = 1'-0"
+140
+0.5
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+4E
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+3/4" = 1'-0"
+140
+0.75
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+4F
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+1" = 1'-0"
+140
+1.0
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+50
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+1-1/2" = 1'-0"
+140
+1.5
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+51
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+3" = 1'-0"
+140
+3.0
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+52
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+6" = 1'-0"
+140
+6.0
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+53
+102
+{ACAD_REACTORS
+330
+42
+102
+}
+330
+42
+100
+AcDbScale
+ 70
+     0
+300
+1'-0" = 1'-0"
+140
+12.0
+141
+12.0
+290
+     0
+  0
+ACDBSECTIONVIEWSTYLE
+  5
+69
+102
+{ACAD_XDICTIONARY
+360
+21B
+102
+}
+102
+{ACAD_REACTORS
+330
+68
+102
+}
+330
+68
+100
+AcDbModelDocViewStyle
+ 70
+     0
+  3
+Imperial24
+290
+     0
+100
+AcDbSectionViewStyle
+ 70
+     0
+ 71
+     0
+ 90
+       78
+ 71
+     1
+340
+55
+ 62
+   256
+ 40
+0.24
+340
+0
+340
+0
+ 62
+   256
+ 40
+0.24
+300
+I, O, Q, S, X, Z
+ 40
+0.48
+ 90
+        3
+ 40
+0.18
+ 90
+        1
+ 71
+     2
+340
+5D
+ 90
+       25
+ 62
+   256
+340
+5D
+ 90
+       50
+ 62
+   256
+ 40
+0.24
+ 40
+0.0
+ 40
+0.24
+ 71
+     3
+340
+55
+ 62
+   256
+ 40
+0.24
+ 90
+        1
+ 40
+0.75
+ 90
+        1
+300
+%<\AcVar ViewType \f "%tc1">% %<\AcVar ViewSectionStartId>%-%<\AcVar ViewSectionEndId>%\PSCALE %<\AcVar ViewScale \f "%sn">%
+ 71
+     4
+ 62
+   256
+ 62
+   257
+300
+ANSI31
+ 40
+1.0
+ 90
+        0
+290
+     0
+290
+     0
+ 90
+        6
+ 40
+0.0
+ 40
+1.570796326794896
+ 40
+0.2617993877991494
+ 40
+1.308996938995747
+ 40
+-0.2617993877991494
+ 40
+1.832595714594046
+  0
+TABLESTYLE
+  5
+65
+102
+{ACAD_XDICTIONARY
+360
+218
+102
+}
+102
+{ACAD_REACTORS
+330
+64
+102
+}
+330
+64
+100
+AcDbTableStyle
+280
+     0
+  3
+Standard
+ 70
+     0
+ 71
+     0
+ 40
+0.06
+ 41
+0.06
+280
+     0
+281
+     0
+  7
+Standard
+140
+0.18
+170
+     2
+ 62
+     0
+ 63
+     7
+283
+     0
+ 90
+      512
+ 91
+        0
+  1
+
+274
+    -2
+284
+     1
+ 64
+     0
+275
+    -2
+285
+     1
+ 65
+     0
+276
+    -2
+286
+     1
+ 66
+     0
+277
+    -2
+287
+     1
+ 67
+     0
+278
+    -2
+288
+     1
+ 68
+     0
+279
+    -2
+289
+     1
+ 69
+     0
+  7
+Standard
+140
+0.25
+170
+     5
+ 62
+     0
+ 63
+     7
+283
+     0
+ 90
+      512
+ 91
+        0
+  1
+
+274
+    -2
+284
+     1
+ 64
+     0
+275
+    -2
+285
+     1
+ 65
+     0
+276
+    -2
+286
+     1
+ 66
+     0
+277
+    -2
+287
+     1
+ 67
+     0
+278
+    -2
+288
+     1
+ 68
+     0
+279
+    -2
+289
+     1
+ 69
+     0
+  7
+Standard
+140
+0.18
+170
+     5
+ 62
+     0
+ 63
+     7
+283
+     0
+ 90
+      512
+ 91
+        0
+  1
+
+274
+    -2
+284
+     1
+ 64
+     0
+275
+    -2
+285
+     1
+ 65
+     0
+276
+    -2
+286
+     1
+ 66
+     0
+277
+    -2
+287
+     1
+ 67
+     0
+278
+    -2
+288
+     1
+ 68
+     0
+279
+    -2
+289
+     1
+ 69
+     0
+  0
+VISUALSTYLE
+  5
+2F
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+2dWireframe
+ 70
+     4
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        0
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+2E
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Basic
+ 70
+     7
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+35
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Brighten
+ 70
+    12
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+50.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+39
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+ColorChange
+ 70
+    16
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     8
+420
+  8421504
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     8
+420
+  8421504
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+32
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Conceptual
+ 70
+     9
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        3
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+179.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+34
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Dim
+ 70
+    11
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+-50.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+41
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+EdgeColorOff
+ 70
+    22
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     0
+ 90
+        2
+176
+     0
+ 90
+        0
+176
+     0
+ 90
+        0
+176
+     0
+ 40
+0.6
+176
+     0
+ 40
+30.0
+176
+     0
+ 62
+     7
+420
+ 16777215
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        4
+176
+     0
+ 62
+     7
+176
+     0
+ 62
+   257
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        1
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        8
+176
+     2
+ 62
+     7
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        6
+176
+     0
+ 90
+        2
+176
+     0
+ 62
+     7
+176
+     0
+ 90
+        5
+176
+     0
+ 90
+        0
+176
+     0
+ 90
+        0
+176
+     0
+290
+     0
+176
+     0
+ 90
+        1
+176
+     0
+ 40
+0.0
+176
+     0
+ 90
+        0
+176
+     0
+290
+     0
+176
+     0
+290
+     1
+176
+     0
+290
+     1
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+ 90
+       50
+176
+     0
+ 40
+0.0
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        0
+176
+     0
+ 62
+    18
+420
+        0
+176
+     0
+ 90
+       50
+176
+     0
+ 90
+        3
+176
+     0
+ 62
+     5
+420
+      255
+176
+     0
+290
+     0
+176
+     0
+ 90
+       50
+176
+     0
+ 90
+       50
+176
+     0
+ 90
+       50
+176
+     0
+290
+     0
+176
+     0
+ 90
+       50
+176
+     0
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     0
+  1
+strokes_ogs.tif
+176
+     0
+290
+     0
+176
+     0
+ 40
+1.0
+176
+     0
+ 40
+1.0
+176
+     0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+38
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Facepattern
+ 70
+    15
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+2A
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Flat
+ 70
+     0
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       13
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+2B
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+FlatWithEdges
+ 70
+     1
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       13
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+2C
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Gouraud
+ 70
+     2
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       13
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+2D
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+GouraudWithEdges
+ 70
+     3
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       13
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+31
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Hidden
+ 70
+     6
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+40.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+3F
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+JitterOff
+ 70
+    20
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     0
+ 90
+        2
+176
+     0
+ 90
+        0
+176
+     0
+ 90
+        0
+176
+     0
+ 40
+0.6
+176
+     0
+ 40
+30.0
+176
+     0
+ 62
+     7
+420
+ 16777215
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        4
+176
+     0
+ 62
+     7
+176
+     0
+ 62
+   257
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        1
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+       10
+176
+     2
+ 62
+     7
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        6
+176
+     0
+ 90
+        2
+176
+     0
+ 62
+     7
+176
+     0
+ 90
+        5
+176
+     0
+ 90
+        0
+176
+     0
+ 90
+        0
+176
+     0
+290
+     0
+176
+     0
+ 90
+        1
+176
+     0
+ 40
+0.0
+176
+     0
+ 90
+        0
+176
+     0
+290
+     0
+176
+     0
+290
+     1
+176
+     0
+290
+     1
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+ 90
+       50
+176
+     0
+ 40
+0.0
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        0
+176
+     0
+ 62
+    18
+420
+        0
+176
+     0
+ 90
+       50
+176
+     0
+ 90
+        3
+176
+     0
+ 62
+     5
+420
+      255
+176
+     0
+290
+     0
+176
+     0
+ 90
+       50
+176
+     0
+ 90
+       50
+176
+     0
+ 90
+       50
+176
+     0
+290
+     0
+176
+     0
+ 90
+       50
+176
+     0
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     0
+  1
+strokes_ogs.tif
+176
+     0
+290
+     0
+176
+     0
+ 40
+1.0
+176
+     0
+ 40
+1.0
+176
+     0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+37
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Linepattern
+ 70
+    14
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        7
+176
+     1
+ 90
+        7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+40
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+OverhangOff
+ 70
+    21
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     0
+ 90
+        2
+176
+     0
+ 90
+        0
+176
+     0
+ 90
+        0
+176
+     0
+ 40
+0.6
+176
+     0
+ 40
+30.0
+176
+     0
+ 62
+     7
+420
+ 16777215
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        4
+176
+     0
+ 62
+     7
+176
+     0
+ 62
+   257
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        1
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        9
+176
+     2
+ 62
+     7
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        1
+176
+     0
+ 90
+        6
+176
+     0
+ 90
+        2
+176
+     0
+ 62
+     7
+176
+     0
+ 90
+        5
+176
+     0
+ 90
+        0
+176
+     0
+ 90
+        0
+176
+     0
+290
+     0
+176
+     0
+ 90
+        1
+176
+     0
+ 40
+0.0
+176
+     0
+ 90
+        0
+176
+     0
+290
+     0
+176
+     0
+290
+     1
+176
+     0
+290
+     1
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+290
+     0
+176
+     0
+ 90
+       50
+176
+     0
+ 40
+0.0
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        0
+176
+     0
+ 62
+    18
+420
+        0
+176
+     0
+ 90
+       50
+176
+     0
+ 90
+        3
+176
+     0
+ 62
+     5
+420
+      255
+176
+     0
+290
+     0
+176
+     0
+ 90
+       50
+176
+     0
+ 90
+       50
+176
+     0
+ 90
+       50
+176
+     0
+290
+     0
+176
+     0
+ 90
+       50
+176
+     0
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     0
+  1
+strokes_ogs.tif
+176
+     0
+290
+     0
+176
+     0
+ 40
+1.0
+176
+     0
+ 40
+1.0
+176
+     0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+33
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Realistic
+ 70
+     8
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       13
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+3E
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Shaded
+ 70
+    27
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     8
+420
+  7895160
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        5
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+3D
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Shaded with edges
+ 70
+    26
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        5
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+3A
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Shades of Gray
+ 70
+    23
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+40.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+3B
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Sketchy
+ 70
+    24
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        1
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+40.0
+176
+     1
+ 90
+       11
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+36
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Thicken
+ 70
+    13
+177
+     3
+291
+     1
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+       12
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        5
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+30
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+Wireframe
+ 70
+     5
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        0
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+ 40
+0.6
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        4
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+   257
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+3C
+102
+{ACAD_REACTORS
+330
+29
+102
+}
+330
+29
+100
+AcDbVisualStyle
+  2
+X-Ray
+ 70
+    25
+177
+     3
+291
+     0
+ 70
+    58
+ 90
+        2
+176
+     1
+ 90
+        2
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+0.5
+176
+     1
+ 40
+30.0
+176
+     1
+ 62
+     7
+420
+ 16777215
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+     7
+176
+     1
+ 62
+   257
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        1
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        8
+176
+     1
+ 62
+     7
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        1
+176
+     1
+ 90
+        6
+176
+     1
+ 90
+        2
+176
+     1
+ 62
+     7
+176
+     1
+ 90
+        3
+176
+     1
+ 90
+        0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       13
+176
+     1
+ 40
+0.0
+176
+     1
+ 90
+        0
+176
+     1
+290
+     0
+176
+     1
+290
+     1
+176
+     1
+290
+     1
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 40
+0.0
+176
+     1
+ 40
+1.0
+176
+     1
+ 90
+        0
+176
+     1
+ 62
+    18
+420
+        0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+        3
+176
+     1
+ 62
+     5
+420
+      255
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+ 90
+       50
+176
+     1
+290
+     0
+176
+     1
+ 90
+       50
+176
+     1
+ 62
+   256
+176
+     0
+ 40
+1.0
+176
+     0
+ 90
+        2
+176
+     1
+  1
+strokes_ogs.tif
+176
+     1
+290
+     0
+176
+     1
+ 40
+1.0
+176
+     1
+ 40
+1.0
+176
+     1
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+DICTIONARYVAR
+  5
+217
+102
+{ACAD_REACTORS
+330
+212
+102
+}
+330
+212
+100
+DictionaryVariables
+280
+     0
+  1
+1:1
+  0
+DICTIONARYVAR
+  5
+214
+102
+{ACAD_REACTORS
+330
+212
+102
+}
+330
+212
+100
+DictionaryVariables
+280
+     0
+  1
+STANDARD
+  0
+DICTIONARYVAR
+  5
+213
+102
+{ACAD_REACTORS
+330
+212
+102
+}
+330
+212
+100
+DictionaryVariables
+280
+     0
+  1
+STANDARD
+  0
+DICTIONARYVAR
+  5
+215
+102
+{ACAD_REACTORS
+330
+212
+102
+}
+330
+212
+100
+DictionaryVariables
+280
+     0
+  1
+Imperial24
+  0
+DICTIONARYVAR
+  5
+216
+102
+{ACAD_REACTORS
+330
+212
+102
+}
+330
+212
+100
+DictionaryVariables
+280
+     0
+  1
+Imperial24
+  0
+DICTIONARY
+  5
+21D
+330
+6B
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+21E
+  0
+DICTIONARY
+  5
+1A
+330
+19
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+BUMPTILE
+360
+1C
+  3
+DIFFUSETILE
+360
+1B
+  3
+OPACITYTILE
+360
+1F
+  3
+REFLECTIONTILE
+360
+1E
+  3
+REFRACTIONTILE
+360
+20
+  3
+SPECULARTILE
+360
+1D
+  0
+DICTIONARY
+  5
+12
+330
+11
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+BUMPTILE
+360
+14
+  3
+DIFFUSETILE
+360
+13
+  3
+OPACITYTILE
+360
+17
+  3
+REFLECTIONTILE
+360
+16
+  3
+REFRACTIONTILE
+360
+18
+  3
+SPECULARTILE
+360
+15
+  0
+DICTIONARY
+  5
+22
+330
+21
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+BUMPTILE
+360
+24
+  3
+DIFFUSETILE
+360
+23
+  3
+OPACITYTILE
+360
+27
+  3
+REFLECTIONTILE
+360
+26
+  3
+REFRACTIONTILE
+360
+28
+  3
+SPECULARTILE
+360
+25
+  0
+DICTIONARY
+  5
+21B
+330
+69
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+21C
+  0
+DICTIONARY
+  5
+218
+330
+65
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
+360
+219
+  0
+XRECORD
+  5
+21E
+102
+{ACAD_REACTORS
+330
+21D
+102
+}
+330
+21D
+100
+AcDbXrecord
+280
+     1
+102
+DISPLAYNAME
+  1
+Imperial24
+102
+FLAGS
+ 90
+        0
+  0
+XRECORD
+  5
+1C
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+1B
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+1F
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+1E
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+20
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+1D
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+14
+102
+{ACAD_REACTORS
+330
+12
+102
+}
+330
+12
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+13
+102
+{ACAD_REACTORS
+330
+12
+102
+}
+330
+12
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+17
+102
+{ACAD_REACTORS
+330
+12
+102
+}
+330
+12
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+16
+102
+{ACAD_REACTORS
+330
+12
+102
+}
+330
+12
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+18
+102
+{ACAD_REACTORS
+330
+12
+102
+}
+330
+12
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+15
+102
+{ACAD_REACTORS
+330
+12
+102
+}
+330
+12
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+24
+102
+{ACAD_REACTORS
+330
+22
+102
+}
+330
+22
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+23
+102
+{ACAD_REACTORS
+330
+22
+102
+}
+330
+22
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+27
+102
+{ACAD_REACTORS
+330
+22
+102
+}
+330
+22
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+26
+102
+{ACAD_REACTORS
+330
+22
+102
+}
+330
+22
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+28
+102
+{ACAD_REACTORS
+330
+22
+102
+}
+330
+22
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+25
+102
+{ACAD_REACTORS
+330
+22
+102
+}
+330
+22
+100
+AcDbXrecord
+280
+     1
+270
+     1
+271
+     1
+  0
+XRECORD
+  5
+21C
+102
+{ACAD_REACTORS
+330
+21B
+102
+}
+330
+21B
+100
+AcDbXrecord
+280
+     1
+102
+DISPLAYNAME
+  1
+Imperial24
+102
+FLAGS
+ 90
+        0
+  0
+CELLSTYLEMAP
+  5
+219
+102
+{ACAD_REACTORS
+330
+218
+102
+}
+330
+218
+100
+AcDbCellStyleMap
+ 90
+        3
+300
+CELLSTYLE
+  1
+TABLEFORMAT_BEGIN
+ 90
+        5
+170
+     1
+ 91
+        0
+ 92
+    32768
+ 62
+   257
+ 93
+        1
+300
+CONTENTFORMAT
+  1
+CONTENTFORMAT_BEGIN
+ 90
+        0
+ 91
+        0
+ 92
+      512
+ 93
+        0
+300
+
+ 40
+0.0
+140
+1.0
+ 94
+        5
+ 62
+     0
+340
+55
+144
+0.25
+309
+CONTENTFORMAT_END
+171
+     0
+ 94
+        0
+309
+TABLEFORMAT_END
+  1
+CELLSTYLE_BEGIN
+ 90
+        1
+ 91
+        1
+300
+_TITLE
+309
+CELLSTYLE_END
+300
+CELLSTYLE
+  1
+TABLEFORMAT_BEGIN
+ 90
+        5
+170
+     1
+ 91
+        0
+ 92
+        0
+ 62
+   257
+ 93
+        1
+300
+CONTENTFORMAT
+  1
+CONTENTFORMAT_BEGIN
+ 90
+        0
+ 91
+        0
+ 92
+      512
+ 93
+        0
+300
+
+ 40
+0.0
+140
+1.0
+ 94
+        5
+ 62
+     0
+340
+55
+144
+0.18
+309
+CONTENTFORMAT_END
+171
+     0
+ 94
+        0
+309
+TABLEFORMAT_END
+  1
+CELLSTYLE_BEGIN
+ 90
+        2
+ 91
+        1
+300
+_HEADER
+309
+CELLSTYLE_END
+300
+CELLSTYLE
+  1
+TABLEFORMAT_BEGIN
+ 90
+        5
+170
+     1
+ 91
+        0
+ 92
+        0
+ 62
+   257
+ 93
+        1
+300
+CONTENTFORMAT
+  1
+CONTENTFORMAT_BEGIN
+ 90
+        0
+ 91
+        0
+ 92
+      512
+ 93
+        0
+300
+
+ 40
+0.0
+140
+1.0
+ 94
+        2
+ 62
+     0
+340
+55
+144
+0.18
+309
+CONTENTFORMAT_END
+171
+     0
+ 94
+        0
+309
+TABLEFORMAT_END
+  1
+CELLSTYLE_BEGIN
+ 90
+        3
+ 91
+        2
+300
+_DATA
+309
+CELLSTYLE_END
+  0
+ENDSEC
+  0
+EOF
