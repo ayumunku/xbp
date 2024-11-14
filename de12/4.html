@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="jp">
+  <head>
+    <meta charset="uth-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>AyumuのXBP</title>
+    <link rel="stylesheet" href="./css/style.css">
+
+
+<body>
+<h1>1:コードの説明</h1>
+  <h2>今回作ったコードは、ネットの記事を翻訳するコードだ。</h2>
+  <h2>本当はYouTubeのAPIを取得して、自分の動画再生時間を計測できるというものを作りたかったのだが、</h2>
+  <h2>それをするにはGoogle Cloud Consoleという有料のサイトにアクセスする必要があるので断念した。</h2>
+  <h2>今回作成したコードでは、そのまま文章を翻訳するのではなく、記事の内容を全て文章として書き出しそれを翻訳アプリにかけるスタイルだ。</h2>
+<p>　</p>
+
+    <img src="./images/スクリーンショット 2024-11-13 11.04.50.png" width="60%">
+
+<h1>2:コード画像</h1>
+<img src="./images/スクリーンショット 2024-11-12 17.09.54.png" width="50%">
+<img src="./images/スクリーンショット 2024-11-12 17.10.09.png" width="50%">
+  <h2>※取得したコード↓（API　Keyを画像の4行目にコピペ）</h2>
+<img src="./images/スクリーンショット 2024-11-12 17.35.31.png" width="30%">
+<p>　</p>
+  <h2>※出力された文章←これをDeepLなどの翻訳アプリにかける<Data></Data></h2>
+    <img src="./images/スクリーンショット 2024-11-12 17.52.02.png" width="60%">
+<P>　</P>
+<h1>3:実際のコード</h1>
+    <a href="./python/wiki.py" target="_blank">wiki.py</a>
+
+  <h2>⭐️７行目に入れるurl一覧（エンドポイント=特定の情報）</h2>
+
+<ol>
+  <li><strong> https://newsapi.org/v2/everything　→全てのニュース記事</strong></li>
+  <li><strong> https://newsapi.org/v2/everything?q=technology&apiKey=your-api-key　テクノロジーに関するニュース</strong></li>
+</ol>
+<p>　</p>
+<h3>使用例</h3>
+      <div><strong>https://newsapi.org/v2/everything?q=東京&language=jp&from=2023-01-01&sortBy=publishedAt&apiKey=YOUR_API_KEY</strong></div>
+      <div><strong>•	language=jp：日本語の記事に限定。<br>
+                   •	from と to：日付範囲を指定してフィルタリング。<br>
+                   ・sortBy：ソートオプション（例: publishedAt, popularity） テクノロジーとか</strong> </div>
+
+<p>　</p>
+<h1>4:感想</h1>
+      <h2>　前回のゲーム課題の時に「impote」について多少調べたつもだったが、今回APIの活用方法を知りさらに<br>
+          プログラミングの幅が広がった。wikiに関してはAPIを自由に活用できたけど、youtubeやTwitterなどのAPI<br>
+          を取得するにはリアルマネーが必要なので、貧乏学生の自分にとっては難しい。チャットGPTで調べたところ<br>
+          自分の全く知らないサイトなどのAPIしか使え無さそうだったので今回はたまたまNewsAPIを活用した。<br>
+          自分には結構難しかったのであまり触れたくない機能だ。（API）</h2>
+
+
+
+      </strong></div>
+
+
+
+<p>　</p>
+
+<h1>5:参考URL</h1>
+     <a href="https://newsapi.org/" target="_blank">News API公式サイト</a>
+
+
+</body>
+</html>
