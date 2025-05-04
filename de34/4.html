@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="jp">
+  <head>
+    <meta charset="uth-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>AyumuのXBP</title>
+    <link rel="stylesheet" href="./css/style.css">
+ </head>
+ <body>
+  <h1><font color="#FF000">動画</font></h1>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cxztgiEpsXg?si=n_y5gtNrplSfBrYl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2>【詳細】</h2>
+<h2>・暗くなったら<br>
+    ○モーターが動いてLEDが点灯。<br>
+    ○パソコンでSpotifyが再生される。
+  </h2>
+<p>　</p>
+<h2>・明るくなったら<br>
+    ○モーターとLEDが止まり、Spotifyも一時停止される。
+<p>　</p>
+<h2>⭐️Arduinoコード</h2>
+<h3>#include ＜Adafruit_NeoPixel.h＞<br>
+<p>　</p>
+// 光センサーはA1ピンに接続<br>
+const int lightSensorPin = A1;<br>
+<p>　</p>
+// モーター制御用ピン<br>
+const int DIR = 8;<br>
+const int STEP = 9;<br>
+<p>　</p>
+// NeoPixelのピン番号とLED数<br>
+const int NEOPIXEL_PIN = 6;<br>
+const int NUMPIXELS = 5; // 使用しているLEDの数に応じて変更<br>
+<p>　</p>
+Adafruit_NeoPixel pixels(NUMPIXELS, NEOPIXEL_PIN, NEO_GRB + NEO_KHZ800);<br>
+<p>　</p>
+// 明るさのしきい値（これより小さいと暗いと判断）<br>
+const int threshold = 500;<br>
+<p>　</p>
+// モーターの回転方向の制御<br>
+unsigned long lastSwitchTime = 0; // 最後に方向を切り替えた時間<br>
+bool direction = true; // 現在のモーターの方向（true: 時計回り、false: 反時計回り）<br>
+<p>　</p>
+// 現在の明暗状態<br>
+bool isDark = false; // 現在暗いかどうか<br>
+<p>　</p>
+// 色の変化用カウンター<br>
+int colorPos = 0;<br>
+<p>　</p>
+void setup() {<br>
+Serial.begin(9600);<br>
+<p>　</p>
+// モーターの初期設定<br>
+pinMode(DIR, OUTPUT);<br>
+pinMode(STEP, OUTPUT);<br>
+digitalWrite(DIR, LOW);<br>
+digitalWrite(STEP, LOW);<br>
+<p>　</p>
+// NeoPixelの初期化<br>
+pixels.begin();<br>
+pixels.clear();<br>
+pixels.show();<br>
+}<br>
+<p>　</p>
+void loop() {<br>
+int lightValue = analogRead(lightSensorPin); // 明るさを読み取る<br>
+Serial.println(lightValue);<br>
+<p>　</p>
+if (lightValue > threshold) {<br>
+// 暗いと判断された場合<br>
+moveMotor(100); // モーターを動かす（方向も1秒ごとに切り替える）<br>
+rainbowCycle(); // LEDを虹色で光らせる<br>
+<p>　</p>
+if (!isDark) {<br>
+Serial.println("PLAY"); // 初めて暗くなったとき「PLAY」を送信<br>
+isDark = true;<br>
+}<br>
+} else {<br>
+// 明るいと判断された場合<br>
+digitalWrite(STEP, LOW); // モーターを止める<br>
+pixels.clear(); // LEDを消す<br>
+pixels.show();<br>
+<p>　</p>
+if (isDark) {<br>
+Serial.println("PAUSE"); // 初めて明るくなったとき「PAUSE」を送信<br>
+isDark = false;<br>
+}<br>
+}<br>
+<p>　</p>
+delay(10);<br>
+}<br>
+<p>　</p>
+// モーターを動かす関数（1秒ごとに回転方向を切り替える）<br>
+void moveMotor(int delaytime) {<br>
+unsigned long currentTime = millis();<br>
+<p>　</p>
+if (currentTime - lastSwitchTime >= 500) {<br>
+direction = !direction; // 方向を切り替える<br>
+lastSwitchTime = currentTime;<br>
+}<br>
+<p>　</p>
+if (direction) {<br>
+digitalWrite(DIR, HIGH); // 時計回り<br>
+} else {<br>
+digitalWrite(DIR, LOW); // 反時計回り<br>
+}<br>
+<p> </p>
+digitalWrite(STEP, HIGH);<br>
+delayMicroseconds(delaytime);<br>
+digitalWrite(STEP, LOW);<br>
+delayMicroseconds(delaytime);<br>
+}<br>
+<p>　</p>
+// NeoPixelを虹色で光らせる関数<br>
+void rainbowCycle() {<br>
+colorPos++;<br>
+if (colorPos > 255) colorPos = 0;<br>
+<p>　</p>
+uint32_t color = Wheel(colorPos);<br>
+for (int i = 0; i < NUMPIXELS; i++) {<br>
+pixels.setPixelColor(i, color);<br>
+}<br>
+pixels.show();<br>
+delay(5); // 色の変化速度<br>
+}<br>
+<p>　</p>
+// 虹色を作るためのヘルパー関数<br>
+uint32_t Wheel(byte WheelPos) {<br>
+WheelPos = 255 - WheelPos;<br>
+if (WheelPos < 85) {<br>
+return pixels.Color(255 - WheelPos * 3, 0, WheelPos * 3);<br>
+}<br>
+if (WheelPos < 170) {<br>
+WheelPos -= 85;<br>
+return pixels.Color(0, WheelPos * 3, 255 - WheelPos * 3);<br>
+}<br>
+WheelPos -= 170;<br>
+return pixels.Color(WheelPos * 3, 255 - WheelPos * 3, 0);<br>
+}</h2><br>
+</h3>
+<p>　</p>
+<h2>⭐️Pythonコード</h2>
+<h3>import serialvimport serial<br>
+import time<br>
+import pyautogui # キーボード操作を自動化するためのライブラリ<br>
+<p>　</p>
+# Arduinoのシリアルポートを開く（ポートは自分の環境に合わせて変更）<br>
+ser = serial.Serial('COM5', 9600) # WindowsならCOMx、Mac/Linuxなら/dev/ttyACMx<br>
+time.sleep(2) # シリアル通信の安定を待つ<br>
+<p>　</p>
+print("PLAY/PAUSE コマンドを待機中...")<br>
+<p>　</p>
+while True:<br>
+if ser.in_waiting: # Arduinoからのデータがあるか確認<br>
+line = ser.readline().decode('utf-8').strip()<br>
+print(f"受信: {line}")<br>
+<p>　</p>
+if line == "PLAY":<br>
+pyautogui.hotkey('space') # スペースキーで再生<br>
+print("PLAY を実行しました")<br>
+<p>　</p>
+elif line == "PAUSE":<br>
+pyautogui.hotkey('space') # スペースキーで一時停止<br>
+print("PAUSE を実行しました")<br>
+  import time<br>
+  import pyautogui # キーボード操作を自動化するためのライブラリ<br>
+  <p>　</p>
+  # Arduinoのシリアルポートを開く（ポートは自分の環境に合わせて変更）<br>
+  ser = serial.Serial('COM5', 9600) # WindowsならCOMx、Mac/Linuxなら/dev/ttyACMx<br>
+  time.sleep(2) # シリアル通信の安定を待つ<br>
+  <p>　</p>
+  print("PLAY/PAUSE コマンドを待機中...")<br>
+  <p>　</p>
+  while True:<br>
+  if ser.in_waiting: # Arduinoからのデータがあるか確認<br>
+  line = ser.readline().decode('utf-8').strip()<br>
+  print(f"受信: {line}")<br>
+  <p>　</p>
+  if line == "PLAY":<br>
+  pyautogui.hotkey('space') # スペースキーで再生<br>
+  print("PLAY を実行しました")<br>
+  <p>　</p>
+  elif line == "PAUSE":<br>
+  pyautogui.hotkey('space') # スペースキーで一時停止<br>
+  print("PAUSE を実行しました")<br>
+</h3>
+<p>　</p>
+<h2>⭐️Arduinoが「play]または「PAUSE」を送信すると、それを読み取ってPythonのコード（音楽が流れる）が動作する。
+</h2>
+
+
+ </body>
+</html>
