@@ -1,0 +1,178 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(145deg, #f0faff, #fff9e6);
+    font-family: 'Kaisei Tokumin', sans-serif;
+    color: #333;
+    overflow-x: hidden;
+}
+
+/* ヘッダー */
+header {
+    background: linear-gradient(to right, #a7e0ff, #fffccf);
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 5px 15px rgba(100, 180, 255, 0.3);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.logo {
+    width: 50px;
+    margin-right: 1rem;
+}
+
+.page-header {
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: #2196f3;
+    font-family: 'Orbitron', sans-serif;
+    text-shadow: 1px 1px 3px #fff;
+}
+
+.page-header:hover {
+    color: #03a9f4;
+    transition: 0.3s;
+}
+
+/* 音符アニメ */
+.note {
+    position: absolute;
+    font-size: 2rem;
+    opacity: 0.6;
+    pointer-events: none;
+    animation: floatUp 6s ease-in-out infinite;
+}
+
+.note:nth-child(2) {
+    left: 10%;
+    animation-delay: 0s;
+    color: #64b5f6;
+}
+
+.note:nth-child(3) {
+    left: 40%;
+    animation-delay: 1.5s;
+    color: #ffd54f;
+}
+
+.note:nth-child(4) {
+    left: 70%;
+    animation-delay: 3s;
+    color: #81c784;
+}
+
+@keyframes floatUp {
+    0% {
+        bottom: -50px;
+        transform: translateX(0) scale(0.8) rotate(0deg);
+    }
+    100% {
+        bottom: 100vh;
+        transform: translateX(50px) scale(1.2) rotate(360deg);
+    }
+}
+
+/* コンテンツカード */
+.section-card {
+    background: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(160, 200, 255, 0.2);
+    margin: 2rem auto;
+    padding: 2rem;
+    max-width: 700px;
+    text-align: center;
+}
+
+.section-card h2 {
+    color: #1976d2;
+    font-family: 'Orbitron', sans-serif;
+    margin-bottom: 1rem;
+}
+
+.section-card p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+/* ボタン */
+.button {
+    background: linear-gradient(to right, #4fc3f7, #ffd740);
+    color: white;
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(100, 180, 255, 0.3);
+    transition: 0.3s ease;
+}
+
+.button:hover {
+    transform: scale(1.05);
+    background: linear-gradient(to right, #ffd740, #4fc3f7);
+}
+
+
+
+
+
+.note {
+    position: absolute;
+    font-size: 2rem;
+    opacity: 0.5;
+    pointer-events: none;
+    animation: floatUp 8s ease-in-out infinite;
+}
+
+@keyframes floatUp {
+    0% {
+        transform: translateY(0) scale(0.8) rotate(0deg);
+        opacity: 0.5;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(-120vh) scale(1.2) rotate(360deg);
+        opacity: 0;
+    }
+}
+
+/* 個別設定：ランダムに見せるためバラバラに調整 */
+.note1 { left: 10%; animation-delay: 0s; color: #4fc3f7; font-size: 2rem; }
+.note2 { left: 25%; animation-delay: 2s; color: #ffd54f; font-size: 2.3rem; }
+.note3 { left: 40%; animation-delay: 1s; color: #81c784; font-size: 1.8rem; }
+.note4 { left: 55%; animation-delay: 3.5s; color: #f06292; font-size: 2.5rem; }
+.note5 { left: 70%; animation-delay: 0.8s; color: #ba68c8; font-size: 2rem; }
+.note6 { left: 15%; animation-delay: 4.2s; color: #4dd0e1; font-size: 2.2rem; }
+.note7 { left: 35%; animation-delay: 2.7s; color: #ffca28; font-size: 2rem; }
+.note8 { left: 60%; animation-delay: 5s; color: #aed581; font-size: 1.7rem; }
+.note9 { left: 80%; animation-delay: 1.3s; color: #7986cb; font-size: 2.4rem; }
+.note10 { left: 5%; animation-delay: 3s; color: #f48fb1; font-size: 1.9rem; }
+
+
+@keyframes floatUp {
+    0% {
+        transform: translateY(0) scale(0.8) rotate(0deg);
+        opacity: 0.5;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        transform: translateY(-60vh) scale(1.2) rotate(360deg);  /* ← ここを変更 */
+        opacity: 0;
+    }
+}
+
+.note {
+    bottom: -100px; /* ← 明示的に指定 */
+    ...
+}
