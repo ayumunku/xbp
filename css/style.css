@@ -1,117 +1,128 @@
-/* 基本設定 */
-body {
-    font-family: 'Noto Sans JP', sans-serif;
+/* --- 変数定義 --- */
+:root {
+    --main-blue: #3498db; /* ボタンの青 */
+    --dark-text: #2c3e50; /* コンテンツの濃いテキスト色 */
+    --light-gray: #7f8c8d; /* サブテキスト色 */
+    --bg-overlay: rgba(0, 0, 0, 0.4); 
+    --header-link-color: #34495e; /* ヘッダーリンクの濃い色 */
+}
+
+/* 1. 基本設定と背景 (インデックスページのデザインを適用) */
+* {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
     line-height: 1.6;
-    color: white;
-    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../images/images.jpg') no-repeat center center/cover;
-    background-attachment: fixed;
+    color: white; 
+    
+    /* === 背景画像設定を修正（オーバーレイを完全に削除） === */
+    /* 画像を直接背景に設定し、本来の明るさで表示 */
+    /* ★★★ パスは、CSSファイルから見たimagesフォルダ内の位置に合わせてください ★★★ */
+    background-image: url('../images/ryu_mj_Stylish_cafe_with_concrete_interior_simple_3d_-ar_32_-_34966946-b5f0-452c-93c4-3c2c18e642c3-scaled.jpg'); 
+    
+    background-size: cover; /* 画面全体を覆う */
+    background-position: center; /* 画像を中央に配置 */
+    background-attachment: fixed; /* スクロールしても背景は固定 */
+    background-color: #aaa; /* 画像が読み込めない場合のフォールバック */
+    
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    flex-direction: column;
+    padding: 20px;
 }
+/* ↑ body要素はここで完結 */
 
-/* メインコンテンツのコンテナ */
+
+/* 2. メインコンテンツのコンテナ (透明度の高いボックス) */
 .content-wrapper {
-    background: rgba(255, 255, 255, 0.95);
-    padding: 60px 40px;
+    background: rgba(255, 255, 255, 0.98); /* ほぼ白の背景で内容を際立たせる */
+    padding: 50px 40px;
     border-radius: 15px;
-    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1);
     text-align: center;
-    width: 90%;
+    width: 100%;
     max-width: 700px;
-    margin: auto;
-    color: #2c3e50;
-    backdrop-filter: blur(5px);
+    color: var(--dark-text);
+    
+    /* 初期アニメーション */
     opacity: 0;
     transform: translateY(20px);
     animation: slidein 1s ease-in-out forwards;
 }
 
-/* タイトルとサブタイトル */
-h1 {
-    font-size: 56px;
+/* 3. トップヘッダーリンク (X-BUSINESS PROGRAM) */
+.top-header {
+    margin-bottom: 30px;
+}
+
+.program-link {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 1.2em;
     font-weight: 700;
-    color: #2c3e50;
-    margin: 0 0 10px;
-    line-height: 1.2;
-    letter-spacing: 2px;
-    text-transform: uppercase;
+    color: var(--header-link-color);
+    border-bottom: 2px solid var(--header-link-color);
+    transition: color 0.3s ease;
+}
+
+.program-link:hover {
+    color: var(--main-blue);
+    border-bottom-color: var(--main-blue);
+}
+
+/* 4. メインタイトル */
+.main-title {
+    font-size: 2.5em;
+    font-weight: 700;
+    color: var(--dark-text);
+    margin-bottom: 40px;
+    padding-bottom: 15px;
     position: relative;
-    padding-bottom: 20px;
 }
 
-h1::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 50px;
-    height: 3px;
-    background-color: #3498db;
-    animation: expand 1s ease-in-out forwards;
-    animation-delay: 0.5s;
-}
-
-h1::before {
-    content: '';
-    display: block;
-    width: 60px;
-    height: 3px;
-    background-color: #3498db;
-    margin: 0 auto 10px;
-    animation: fadein 1s ease-in-out;
-}
-
-h1::after {
-    margin: 10px auto 0;
-}
-
-h1 font {
-    font-size: 20px;
-    display: block;
-    margin-top: 5px;
-    color: #7f8c8d;
-    font-weight: 400;
-    letter-spacing: 1px;
-}
-
-/* ポートフォリオ一覧のセクション */
-h2 {
-    font-size: 24px;
+/* 5. セクション見出し (演習ノート一覧) */
+.section-heading {
+    font-size: 1.8em;
     font-weight: 700;
-    color: #34495e;
-    margin: 40px 0 25px;
+    color: var(--dark-text);
+    margin: 30px 0 25px;
 }
 
-m2 {
-    font-size: 24px;
-    font-weight: 700;
-    border-bottom: 3px solid #3498db;
+.m2-style {
     padding-bottom: 5px;
+    border-bottom: 3px solid var(--main-blue); /* 青色の下線 */
+    display: inline-block;
 }
 
-/* ボタン */
+/* 6. ボタンコンテナ (ボタン間の配置を制御) */
+.button-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; 
+    margin-top: 30px;
+}
+
+/* 7. アニメーションボタン (.btn_02) のスタイル */
 .btn_02 {
     position: relative;
     overflow: hidden;
     display: block;
     width: 90%;
-    max-width: 450px;
-    margin: 20px auto;
-    padding: 22px;
-    background: linear-gradient(45deg, #3498db, #2980b9);
+    max-width: 500px;
+    margin: 0 auto; 
+    padding: 18px 22px;
+    background: linear-gradient(45deg, var(--main-blue), #2980b9);
     color: white;
     font-size: 18px;
     font-weight: 700;
     text-align: center;
-    text-decoration: none;
     border-radius: 50px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
     transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
     z-index: 1;
 }
@@ -131,18 +142,18 @@ m2 {
 }
 
 .btn_02:hover {
-    background: linear-gradient(45deg, #2980b9, #3498db);
-    transform: translateY(-7px) scale(1.02);
-    box-shadow: 0 15px 30px rgba(0,0,0,0.2);
-    letter-spacing: 1px;
+    background: linear-gradient(45deg, #2980b9, var(--main-blue));
+    transform: translateY(-5px) scale(1.01); 
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    letter-spacing: 0.5px;
 }
 
 .btn_02:hover::after {
-    width: 250px;
-    height: 250px;
+    width: 200%;
+    height: 200%;
 }
 
-/* アニメーション */
+/* 8. アニメーションキーフレーム */
 @keyframes slidein {
     from {
         opacity: 0;
@@ -154,11 +165,19 @@ m2 {
     }
 }
 
-@keyframes expand {
-    from {
-        width: 0;
+/* 9. レスポンシブ対応 */
+@media (max-width: 600px) {
+    .content-wrapper {
+        padding: 40px 20px;
     }
-    to {
-        width: 50px;
+    .main-title {
+        font-size: 2em;
+    }
+    .section-heading {
+        font-size: 1.5em;
+    }
+    .btn_02 {
+        font-size: 16px;
+        padding: 15px 18px;
     }
 }
