@@ -1,0 +1,85 @@
+/* --- 汎用的な変数定義 (ヘッダーで使用するもののみ) --- */
+:root {
+    --main-blue: #3498db;          /* ホバー時のアクセントカラー */
+    --base-text: #f0f0f0;          /* ヘッダーの文字色 */
+    --header-blur-bg: rgba(0, 0, 0, 0.2); /* ヘッダーの薄い背景色 */
+    --header-image-url: url(../images/cafe.jpg); /* 背景画像パス */
+}
+
+/* 10. ヘッダー (画像を大きく表示し、文字にこだわる) */
+header {
+    width: 100%;
+    /* 文字色を白に設定 */
+    color: var(--base-text); 
+    /* 背景色を非常に薄い黒に設定 */
+    background-color: var(--header-blur-bg); 
+    
+    /* ★修正: 上下のパディングを大きく増やし、ヘッダーの高さを最大限に広げる */
+    padding: 100px 30px; 
+    
+    box-shadow: none; 
+    
+    /* ★修正: 文字サイズと太さを強調 */
+    font-size: 3.0rem; 
+    font-weight: 900; 
+    text-align: center; 
+    
+    /* ★修正: 発光シャドウを削除し、文字をシンプルに */
+    text-shadow: none; 
+    
+    transition: color 0.3s ease; 
+    
+    /* ぼかし背景の土台設定 */
+    position: relative;
+    z-index: 10;
+    overflow: hidden;
+    /* ぼかし効果の適用 */
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+/* ★★★ 追加: 縦方向のグラデーションを適用 ★★★ */
+    /* 上端は濃い半透明、下に向かって透明に */
+    background-image: linear-gradient(
+        to bottom, 
+        rgba(0, 0, 0, 0.5), /* 上端は少し濃い半透明 */
+        rgba(0, 0, 0, 0.1) 50%, /* 途中まで薄く */
+        transparent 100% /* 下端は完全に透明 */
+    );
+    /* background-color は上書きされますが、backdrop-filter のために残します */
+}
+
+/* ★★★ ヘッダー背景画像（ぼかしと位置調整） ★★★ */
+header::before {
+    content: '';
+    position: absolute;
+    /* 画像上部を見せるため、上方向に大きくずらす */
+    top: -200px;     
+    left: -50px;   
+    width: calc(100% + 100px); 
+    height: calc(100% + 250px); 
+    
+    background-image: var(--header-image-url);
+    /* 画像の上部を見せつつ、ヘッダー領域にフィットさせる */
+    background-position: center 30%; 
+    background-attachment: fixed;
+    background-size: cover;
+    
+    /* ぼかしを弱くし、少し暗くする */
+    filter: blur(4px) brightness(0.9); 
+    opacity: 0.7; 
+    
+    z-index: -1; 
+}
+
+header:hover {
+    /* ホバーで青に変化する、控えめな効果のみ */
+    color: var(--main-blue); 
+    text-shadow: none;
+}
+
+/* ★★★ レスポンシブ対応のヘッダー ★★★ */
+@media (max-width: 768px) {
+    header {
+        font-size: 1.5rem; 
+        padding: 40px 15px; /* モバイルでもパディングを調整 */
+    }
+}

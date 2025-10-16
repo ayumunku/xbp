@@ -1,0 +1,67 @@
+/*  1.色の変更  */
+h3{
+    color:blue;
+    font-family:YuMincho;
+}
+
+/* 2.特定の色の変更　*/
+.highlight{
+    color:crimson;
+    font-size: 2rem;
+    font-family:"YuMincho";
+    font-weight:bold;
+    text-decoration: underline;
+    line-height:10;
+    letter-spacing:2rem;
+}
+
+/* 3.目次内の特定の色を変更 */
+#link-title{
+    color:blueviolet;
+}
+/*  4.親→子　section  */
+#book p{
+    color:darkorange;
+    text-align: center;
+}
+
+/* 5.擬似クラス(条件によって変更） */
+a:hover{
+    color:aqua;
+}
+
+/* 6.h2の前に○を追加 before,after*/
+h2::before{
+    content:"○";
+}
+
+/* 7. 属性セレクター */
+input[type="email"]{
+    color:deeppink;
+}
+
+/* 8.テキストのサイズ　100%→16px　rem 1.4,→14px  Webページ全体はbodyタグに囲われている*/
+html{
+   font-size:62.5%;
+}
+body{
+    font-size:1.6rem;
+    background-color:palegoldenrod;
+}
+
+/* 9.フォントの種類選択　font-family  "hiragino kaku","gothic pron","yumincho"*/
+
+/*　10.フォントの太さを指定　font-weight  100~900  キーワード.normal bold*/
+
+/*  11.テキストの水平方向の配置　text-align(left,right,center,justify)
+
+/*. 12.テキストの装飾　text-decoration　下線とか */
+
+/*. 13.テキストの行間　line-height.   テキストの間のスペース　letter-spacing */
+
+/*  14.RGBカラー　color:rgb(10,255,0,0.5) */
+h1{
+  color:rgb(46, 133, 108);
+}
+
+/*  ⭐️バックグランドを画像にする→background-image:ure(".  ")　画像はimagesに入れる */
