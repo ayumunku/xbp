@@ -1,29 +1,31 @@
 @charset "utf-8";
+/* 最終版 CSSコード */
+
 /* 冒頭でimport */
 @import url('https://fonts.googleapis.com/css?family=Raleway:700&display=swap');
 @import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:400,700&display=swap&subset=japanese');
 
 /* --- 汎用的な変数定義 --- */
 :root {
-    --main-blue: #3498db;          /* サブアクセントの青色 */
-    --accent-gold: #FFD700;        /* メイン強調色（落ち着いたゴールド） */
-    --dark-text: #34495e;          /* 見出し、濃いテキスト色 */
-    --base-text: #f0f0f0;          /* 基本テキスト（明るい色） */
-    --overlay-color: rgba(0, 0, 0, 0.4); /* ヘッダー/フッターの薄いオーバーレイ */
-    --content-bg: rgba(0, 0, 0, 0.7); /* リストボタンの背景（濃いオーバーレイ） */
+    --main-blue: #3498db;          /* メインアクセントの青色 */
+    --accent-gold: #FFD700;        /* サブアクセントのゴールド */
+    --dark-text: #34495e;          
+    --base-text: #a4a0a0;          /* 基本テキスト（明るい色） */
+    --overlay-color: rgba(0, 0, 0, 0.4); /* フッターの薄いオーバーレイ */
+    --content-bg: rgba(0, 0, 0, 0.7); /* リストボタンの濃いオーバーレイ */
+    
+    --header-blur-bg: rgba(0, 0, 0, 0.2); /* ヘッダーの背景（非常に薄い黒） */
+    --header-image-url: url(../images/cafe.jpg); /* 背景画像パス */
 }
-
-/* 0. 削除: カスタムスクロールバー (Webkitブラウザ向け) */
-/* 削除済み */
 
 /* 0. 機能追加: テキスト選択時の色 */
 ::selection {
-    background: var(--accent-gold);
-    color: var(--dark-text);
+    background: var(--main-blue);
+    color: var(--base-text);
 }
 
 
-/* 1. ロゴ画像のスタイル修正 (クラスセレクタを使用) */
+/* 1. ロゴ画像のスタイル修正 */
 .logo img {
     border-radius: 50%;
     width: 150px;
@@ -41,14 +43,14 @@
 
 /* ========== common & body structure ========== */
 html, body {
-    font-size: 16px;
-    font-family: 'M PLUS Rounded 1c', sans-serif;
-    color: var(--base-text);
     margin: 0;
     padding: 0;
     min-height: 100vh;
+    font-size: 16px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    color: var(--base-text);
     
-    background-image: url(../images/cafe.jpg);
+    background-image: var(--header-image-url);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
@@ -70,32 +72,74 @@ html, body {
 
 /* --- 構造要素の追加 --- */
 
-/* 10. ヘッダー (縦横の揺れを削除) */
+/* 10. ヘッダー (画像ぼかしと文字の統合) */
 header {
     width: 100%;
-    background: var(--overlay-color);
-    padding: 15px 30px;
+    color: var(--base-text); 
+    background-color: var(--header-blur-bg); 
+    
+    /* ★修正: ヘッダーの高さを確保 */
+    padding: 100px 30px; 
     box-shadow: none; 
     
-    font-size: 2.5rem;
-    color: var(--main-blue); 
-    font-weight: 700; 
-    text-align: center; 
-    
-    text-shadow: 
-        0 0 5px rgba(52, 152, 219, 0.8), 
-        0 0 10px rgba(52, 152, 219, 0.4);
+    /* ★修正: グラデーションを適用 */
+    background-image: linear-gradient(
+        to bottom, 
+        rgba(0, 0, 0, 0.5), 
+        rgba(0, 0, 0, 0.1) 50%, 
+        transparent 100% 
+    );
     
     transition: color 0.3s ease; 
+    
+    position: relative;
+    z-index: 10;
+    overflow: hidden;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
 }
 
-header:hover {
-    color: rgb(130, 240, 255); 
-    text-shadow: 
-        0 0 8px rgba(130, 240, 255, 1), 
-        0 0 15px rgba(52, 152, 219, 0.6);
-    /* ★修正: transformを削除 */
+/* ★★★ ヘッダー内の文字（タイトル）のスタイル統合 ★★★ */
+header h1 {
+    /* H1単独のスタイルを上書きする高優先度セレクタ */
+    color: var(--base-text); 
+    font-size: 3.0rem; 
+    font-weight: 900; 
+    text-align: center; 
+    text-shadow: none; /* シンプルにするため影を削除 */
+    margin: 0; /* bodyスタイルをリセット */
+    padding: 0;
+    
+    /* ホバー効果をシンプルに */
+    transition: color 0.3s ease;
 }
+
+header h1:hover {
+    color: var(--main-blue); /* ホバーで青に変化 */
+    cursor: pointer;
+}
+
+
+/* ★★★ ヘッダー背景画像（ぼかしと位置調整） ★★★ */
+header::before {
+    content: '';
+    position: absolute;
+    top: -200px;     
+    left: -50px;   
+    width: calc(100% + 100px); 
+    height: calc(100% + 250px); 
+    
+    background-image: var(--header-image-url);
+    background-position: center 30%; 
+    background-attachment: fixed;
+    background-size: cover;
+    
+    filter: blur(4px) brightness(0.9); 
+    opacity: 0.7; 
+    
+    z-index: -1; 
+}
+
 
 /* 11. フッター */
 footer {
@@ -109,24 +153,19 @@ footer {
 }
 
 
-/* 2. 見出し h1 のスタイル (縦横の揺れを削除) */
+/* 2. 見出し h1 のスタイル (単独で使用される場合のために残すが、シンプルに) */
 h1 {
-    color: var(--accent-gold);
+    color: var(--base-text); 
     font-size: 2.0rem; 
     font-weight: 900; 
     text-indent: 0;
+    text-shadow: none; 
     
-    text-shadow: 
-        0 0 8px rgba(255, 215, 0, 0.5), 
-        0 0 15px rgba(255, 215, 0, 0.3),
-        0 0 30px rgba(255, 255, 255, 0.05); 
-
     position: relative; 
     display: inline-block;
     padding-bottom: 5px; 
     margin-top: 1.5em; 
-
-    transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition: color 0.4s ease;
 }
 
 h1::after {
@@ -134,67 +173,51 @@ h1::after {
     display: block;
     width: 100%;
     height: 4px; 
-    background: var(--accent-gold);
+    background: var(--main-blue); /* 下線を青に */
     position: absolute;
     bottom: 0;
     left: 0;
-    /* ★修正: clip-pathを削除 */
     transition: background 0.4s ease; 
 }
 
 h1:hover {
-    color: rgb(255, 255, 255); 
-    text-shadow: 
-        0 0 10px rgba(255, 255, 255, 0.8), 
-        0 0 20px rgba(255, 215, 0, 0.6);
-    /* ★修正: transform (縦の揺れ) を削除 */
+    color: var(--main-blue); 
+    text-shadow: none;
     cursor: pointer;
 }
 
 h1:hover::after {
-    /* ★修正: transform (横の揺れ) を削除 */
     background: #ffffff; 
 }
 
-/* 3. ID #link-title のスタイル (縦横の揺れを削除) */
+/* 3. ID #link-title のスタイル */
 #link-title {
-    color: var(--main-blue); 
-    
-    text-shadow: 
-        0 0 5px rgba(52, 152, 219, 0.6), 
-        0 0 15px rgba(52, 152, 219, 0.4);
-    
+    color: var(--base-text); 
+    text-shadow: none; 
     transition: all 0.3s ease-in-out;
     font-weight: 700;
 }
 
 #link-title:hover {
-    color: rgb(130, 240, 255); 
-    
-    text-shadow: 
-        0 0 10px rgba(130, 240, 255, 0.8), 
-        0 0 25px rgba(130, 240, 255, 0.6);
-        
-    /* ★修正: transform (縦の揺れ) を削除 */
+    color: var(--main-blue); 
+    text-shadow: none;
     cursor: pointer;
 }
 
 
-/* 4. 見出し h2 のスタイル (横の動きを削除) */
+/* 4. 見出し h2 のスタイル (横の動きと派手さを削除) */
 h2 {
     margin-left: 0; 
     margin-top: 2em; 
     margin-bottom: 0.5em; 
     padding-left: 10px; 
     
-    color: var(--accent-gold); 
+    color:#84eb84;
     font-size: 2.0rem; 
     font-weight: 700; 
     text-decoration: none; 
     
-    text-shadow: 
-        0 2px 3px rgba(0, 0, 0, 0.4),
-        0 0 8px rgba(255, 215, 0, 0.15);
+    text-shadow: none;
 
     position: relative; 
     display: inline-block; 
@@ -208,17 +231,15 @@ h2::after {
     width: 60%; 
     height: 3px; 
     margin-top: 5px; 
-    background-color: var(--accent-gold);
-    /* ★修正: transition (横の動き) を削除 */
-    transition: none; 
+    background-color: var(--main-blue);
+    transition: none;
 }
 
 h2:hover {
-    color: white;
+    color: var(--main-blue);
 }
 
 h2:hover::after {
-    /* ★修正: 横に伸びるwidthの変化を削除 */
     width: 60%; 
 }
 
@@ -236,9 +257,8 @@ p {
     margin-left: 3em;
 }
 span.blackback {
-    text-indent: 3em;
     background: rgba(0, 0, 0, 0.6); 
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 3px 6px;
     border-radius: 4px;
     box-shadow: inset 1px 1px 3px rgba(255, 255, 255, 0.1), inset -1px -1px 3px rgba(0, 0, 0, 0.8);
@@ -252,7 +272,7 @@ ul {
     margin: 0;
 }
 
-/* 7. リスト内のリンク（li a）のスタイル (縦横の揺れを削除) */
+/* 7. リスト内のリンク（li a）のスタイル */
 li a {
     display: block; 
     width: 90%;       
@@ -279,25 +299,23 @@ li a {
 li a:hover {
     box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.6), inset -2px -2px 5px rgba(255, 215, 0, 0.4); 
     
-    color: var(--accent-gold); 
+    color: var(--main-blue); 
     background-color: rgba(0, 0, 0, 0.6); 
-    /* ★修正: transform (縦の揺れ) を削除 */
 }
 
 /* アクティブ（クリック中）スタイル */
 li a:active {
     box-shadow: inset 4px 4px 8px rgba(0, 0, 0, 0.8), inset -4px -4px 8px rgba(255, 215, 0, 0.6);
-    /* ★修正: transform (縮小) を削除 */
 }
 
 /* フォーカス（キーボード操作）スタイル */
 li a:focus {
-    outline: 2px solid var(--accent-gold); 
+    outline: 2px solid var(--main-blue); 
     outline-offset: 2px;
 }
 
 
-/* 8. 汎用リンク（a）のスタイル (横の動きを削除) */
+/* 8. 汎用リンク（a）のスタイル */
 a {
     display: inline-block; 
     background-color: transparent; 
@@ -310,7 +328,7 @@ a {
     text-decoration: none;
     font-weight: 600;
     
-    text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); 
+    text-shadow: none; 
     position: relative;
     transition: all 0.3s ease;
     z-index: 1; 
@@ -321,56 +339,107 @@ a::after {
     position: absolute;
     bottom: -1px; 
     left: 0;
-    width: 100%; /* 幅を100%に固定 */
+    width: 100%; 
     height: 2px; 
-    background-color: var(--accent-gold); 
-    transition: opacity 0.3s ease; /* opacityに修正 */
+    background-color: var(--main-blue); 
+    transition: opacity 0.3s ease;
     z-index: -1;
     opacity: 0; 
 }
 
 a:hover {
-    color: var(--accent-gold); 
+    color: var(--main-blue); 
     background-color: transparent; 
     box-shadow: none; 
     cursor: pointer;
 }
 
 a:hover::after {
-    opacity: 1; /* ホバーで線が出現 */
+    opacity: 1; 
 }
 
 /* アクティブ（クリック中）スタイル */
 a:active {
     color: #fff;
-    /* ★修正: transform (縮小) を削除 */
 }
 
 /* フォーカス（キーボード操作）スタイル */
 a:focus {
-    outline: 1px solid var(--accent-gold);
+    outline: 1px solid var(--main-blue);
     outline-offset: 1px;
 }
 
 
 /* 9. 特定のリンクサイズ変更クラス */
 .big-link {
-    font-size: 1.8rem; 
+    font-size: 1.5rem; 
+    colore:var(--accent-gold);
 }
 
-/* ★★★ レスポンシブ対応 ★★★ */
-@media (max-width: 768px) {
-    header {
-        font-size: 1.5rem; 
-        padding: 10px 15px;
-    }
-    h1 {
-        font-size: 1.8rem;
-    }
-    h2 {
-        font-size: 1.5rem;
-    }
-    li a {
-        padding: 12px 15px;
-    }
+
+/* --- 汎用的な変数定義 --- */
+:root {
+    --main-blue: #3498db;          
+    --accent-gold: #FFD700;        
+    --dark-text: #34495e;          
+    --base-text: #FFFFFF;          /* ★修正: 文字色を純粋な白に */
+    --header-blur-bg: rgba(0, 0, 0, 0.2); 
+    /* ... (他の変数は省略) ... */
+}
+
+/* ... (中略) ... */
+
+/* 10. ヘッダー */
+header {
+    width: 100%;
+    color: var(--base-text); 
+    
+    /* ★修正: グラデーションと背景色を統合し、半透明の暗色にする */
+    background: linear-gradient(
+        to bottom, 
+        rgba(0, 0, 0, 0.5), /* 上部を暗く */
+        rgba(0, 0, 0, 0.1) 50%, 
+        transparent 100% 
+    ), var(--header-blur-bg); 
+    
+    /* ヘッダーの高さを確保 */
+    padding: 100px 30px; 
+    box-shadow: none; 
+    
+    /* 文字サイズはh1に任せるため削除 */
+    /* font-size:3rem; を削除 */ 
+    
+    /* 文字の中央寄せ設定を維持 */
+    text-align: center; 
+    
+    /* 文字を装飾するためにトランジションを追加 */
+    transition: all 0.5s ease-in-out; 
+    
+    /* ぼかし背景の土台設定を維持 */
+    position: relative;
+    z-index: 10;
+    overflow: hidden;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
+
+header:hover {
+    /* ホバー時、背景のグラデーションをわずかに濃くすることで動きを表現 */
+    background: linear-gradient(
+        to bottom, 
+        rgba(0, 0, 0, 0.6), /* ホバーで少し暗く */
+        rgba(0, 0, 0, 0.2) 50%, 
+        transparent 100% 
+    ), var(--header-blur-bg); 
+}
+header h1 {
+    color: var(--base-text); 
+    font-size: 3.5rem !important; /* ← 大きさはこの設定に依存します */
+    font-weight: 900; 
+    text-align: center; 
+    text-shadow: none;
+    margin: 0 auto; 
+    padding: 0;
+    transition: color 0.3s ease;
+    display: inline-block;
 }
