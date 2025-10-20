@@ -83,3 +83,16 @@ header:hover {
         padding: 40px 15px; /* モバイルでもパディングを調整 */
     }
 }
+
+
+.highlight{
+    color:red;
+}
+
+h2{
+    text-decoration:underline;
+}
+
+p{
+  font-size: 1.2rem;
+}
